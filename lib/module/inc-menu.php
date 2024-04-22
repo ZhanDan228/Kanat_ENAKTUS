@@ -114,12 +114,13 @@
 	</div>
 	<div class="menu-con-outer">
 		<div class="menu-con-inner">
+<!-- -------------------------      logo           --> 
 			<div class="menu-con-logo">
 				<a href='/'>
-				<div class="menu-ico-logo">
-				</div>
+				<img src="/img/icons/mainLogo.png" style="width:110%"  class="menu-ico-logo" />
 				</a>
 			</div>
+<!-- ------------------------- -->
 			<div class="mobile-menu-btn-open toggle-mobilemenu">
 			</div>
 			<div class="mobile-menu-btn-darkmode toggle-darkmode">

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="ru">
 <head>
 <title>RPCS3 - The PlayStation 3 Emulator</title>
 <meta charset="utf-8">
@@ -28,7 +28,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6161192934701994" crossorigin="anonymous"></script>
 </head>
 <body>
-<img src="/img/graphics/landing/hero-main.png" width="1" height="1" alt="preload"/>
+<img src="" width="1" height="1" alt="preload"/>
 <img src="/img/videos/1.jpg" width="1" height="1" alt="Preload"/>
 <img src="/img/videos/2.jpg" width="1" height="1" alt="Preload"/>
 <img src="/img/videos/3.jpg" width="1" height="1" alt="Preload"/>
@@ -79,7 +79,7 @@
 						</div>
 						<div class='landing-tx2-heading'>
 							<p>
-								 RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
+								 Эмулятор
 							</p>
 							<div class='landing-btn-container'>
 								<div class="build-btn-button">
