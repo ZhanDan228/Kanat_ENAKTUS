@@ -151,18 +151,18 @@
 		</div>
 	</div>
 <!-- -----------------------------     Здесь был блок Play Beyond.      --------------------------- -->
-	
+<!-- ----------------------------------- Features  -------------------------------------------------------- -->
 	<div class="landing-con-video darkmode-feature">
 	<div class="featured-img-overlay darkmode-invert">
 		</div>
 		<div class="content-con-outside">
-			<div class="content-btn-left darkmode-arrow-left left" href="#myCarousel" data-slide="prev">
+			<div class="content-btn-left darkmode-arrow-left left" href="#myCarousel" data-slide="prev" >
 			</div>
-			<div class="content-btn-right darkmode-arrow-right right" href="#myCarousel" data-slide="next">
+			<div class="content-btn-right darkmode-arrow-right right" href="#myCarousel" data-slide="next" >
 			</div>
 			<div class="content-con-inside">
 				<div class="video-tx1-heading darkmode-txt">
-					<h2>Featured.</h2>
+					<h2>Особенности.</h2>
 				</div>
 				<div class="video-con-divider">
 				</div>
@@ -170,6 +170,7 @@
 			</div>
 		</div>
 	</div>
+<!-- -------------------------------------------- -->
 	<div class="landing-con-discord darkmode-discord">
 	<div class="discord-img-overlay">
 		</div>
@@ -181,7 +182,7 @@
 		</div>
 		<div class="discord-right-logo">
 			<img alt="Discord Right Banner" src="/img/graphics/svg/discord-right.svg" style="width: 100%; height: 100%;">
-		</div>
+		</div>	
 		<div class="content-con-outside">
 			<div class="content-con-inside">
 				<div class="discord-con-container">
