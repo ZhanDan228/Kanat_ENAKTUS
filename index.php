@@ -150,76 +150,8 @@
 			</div>
 		</div>
 	</div>
-	<div class="landing-con-search darkmode-slimbar">
-		<div class="search-ovr-container">
-		</div>
-		<div class='search-con-container'>
-			<div class="search-con-outer">
-				<div class="search-con-inner">
-					<div class="search-inp-search darkmode-search-border">
-						<div class="search-ico-search darkmode-invert">
-						</div>
-						<div class="search-con-author darkmode-txt">
-							<a href="https://github.com/AniLeo" target="_blank">
-							<span class="darkmode-txt">Compatibility DB maintained by <span class="search-img-author"></span>
-							<span class="search-tx1-author">Ani</span>
-							</span>
-							</a>
-						</div>
-						<form action='/compatibility' method='get'>
-							<input class="database-search darkmode-txt darkmode-search-bg" name="g" placeholder="Game Title / Game ID">
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="landing-con-handheld darkmode-feature">
-		<div class="handheld-img-backdrop">
-		</div>
-		<div class="handheld-img-overlay">
-		</div>
-		<div class="content-con-outside">
-			<div class="content-con-inside">
-				<div class="video-tx1-heading darkmode-txt">
-					<h2>Play Beyond.</h2>
-				</div>
-				<div class="video-con-divider">
-				</div>
-				<div class="handheld-con-container">
-					<div class="handheld-con-screen">
-						<div class="handheld-img-screen">
-							<img alt="1" src="img/graphics/landing/handheld-1.jpg" style='height: 100%; width: 100%; object-fit: contain'/>
-							<img alt="2" src="img/graphics/landing/handheld-2.jpg" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
-							<img alt="3" src="img/graphics/landing/handheld-3.jpg" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
-							<img alt="4" src="img/graphics/landing/handheld-4.jpg" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
-							<img alt="5" src="img/graphics/landing/handheld-5.jpg" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
-							<img alt="6" src="img/graphics/landing/handheld-6.jpg" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
-							<img alt="7" src="img/graphics/landing/handheld-7.jpg" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
-							<img alt="8" src="img/graphics/landing/handheld-8.jpg" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
-						</div>
-					</div>
-					<div class="handheld-txt-container">
-						<div class="handheld-tx1-title darkmode-txt">
-							<span>Your PlayStation 3 library on the go.</span>
-						</div>
-						<div class="handheld-tx2-desc darkmode-txt">
-							<span>ASUS ROG Ally pictured. RPCS3's performance may vary per device.</span>
-						</div>
-						<a href="/quickstart">
-						<div class="handheld-btn-button">
-							<div class="handheld-ico-button">
-							</div>
-							<div class="handheld-tx1-button">
-								<span>Get started with a PC or Handheld</span>
-							</div>
-						</div>
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+<!-- -----------------------------     Здесь был блок Play Beyond.      --------------------------- -->
+	
 	<div class="landing-con-video darkmode-feature">
 	<div class="featured-img-overlay darkmode-invert">
 		</div>
