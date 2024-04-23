@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="ru">
 <head>
 <title>RPCS3 - The PlayStation 3 Emulator</title>
 <meta charset="utf-8">
@@ -28,7 +28,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6161192934701994" crossorigin="anonymous"></script>
 </head>
 <body>
-<img src="/img/graphics/landing/hero-main.png" width="1" height="1" alt="preload"/>
+<img src="" width="1" height="1" alt="preload"/>
 <img src="/img/videos/1.jpg" width="1" height="1" alt="Preload"/>
 <img src="/img/videos/2.jpg" width="1" height="1" alt="Preload"/>
 <img src="/img/videos/3.jpg" width="1" height="1" alt="Preload"/>
@@ -51,61 +51,102 @@
 	'3'
 	);
 ?>
+
+<!-- ---------------------  Отвечает за волну на первой странице  -------------------------- -->
+
 <div class="page-con-content landing-con-override">
-	<div class="wavebar-con-container-master">
+	<!-- <div class="wavebar-con-container-master">
 		<div class="wavebar-con-wrap">
 			<div class="wavebar-svg-object">
 			</div>
 			<div class="wavebar-svg-object">
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<div class='landing-ico-scrolldown'>
 	</div>
+
+<!-- ------------------------- Границы первого блока --------------------------- -->
+
 	<div class="landing-con-main">
-		<div id="object-particles">
-		</div>
-		<div class="content-con-backdrop darkmode-header">
+		<!-- <div id="object-particles">
+		</div> -->
+		<div class="content-con-backdrop darkmode-header" style="background: linear-gradient(-135deg, rgb(255, 255, 0) 25%, rgb(255, 215, 0) 100%);">
 		</div>
 		<div class="content-con-outside">
 			<div class="content-con-inside">
 				<div class='landing-con-left content-expand '>
 					<div class="landing-con-container scale-content-txt-1 fade-in-onload">
+
+<!-- ----------------------------------     Logo на телефоне       -------------------------------------- -->
+<!-- 
 						<div class='landing-ico-logo'>
-						</div>
+						</div> -->
+
+<!-- ------------------------------------------------------------------------ -->
+
 						<div class='landing-tx1-heading pulsate'>
-							<h1>The Open-source<br>
-							 PlayStation 3 Emulator</h1>
+							<h1>Enaktus<br>
+							 Нан үчүн гана</h1>
 						</div>
 						<div class='landing-tx2-heading'>
 							<p>
-								 RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
+							Первый в Кыргызстане проект сбора и использования ненужных вещей в корм.
 							</p>
+
+<!-- -------------------------------------------------------  About button  -->
+
 							<div class='landing-btn-container'>
 								<div class="build-btn-button">
 									<div class="build-ico-button">
-										<div class="build-ico-os">
+										<!-- Отвечает за каринку внутри кнопки -->
+										<!-- <div class="build-ico-os">
 											<img alt="Windows" src="img/icons/list/os-windows-11.png" style='height: 100%; width: 100%; object-fit: contain'/>
 											<img alt="Linux" src="img/icons/list/os-linux-na.png" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
 											<img alt="macOS" src="img/icons/list/os-macos.png" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
 											<img alt="FreeBSD" src="img/icons/list/os-bsd.png" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
-										</div>
+										</div> -->
 									</div>
-									<a href="/download">
+									<a href='/about'>
 									<div class="build-tx1-button">
-										<span>Download</span>
-										<span class="build-tx2-label">64-bit</span>
+										<span style="margin-left: 15%">Подробнее</span>
+										<!-- <span class="build-tx2-label">64-bit</span> -->
 									</div>
 									</a>
 								</div>
 							</div>
+
+ <!-- ----------------------------------------------------------------------- -->
+
+
 						</div>
 					</div>
 				</div>
-				<div class='landing-con-right content-remove '>
-					<div class='landing-img-hero' style="background: url(/img/graphics/landing/hero-main.png) no-repeat center; background-size: contain;">
+
+<!-- -----------------------------     Здесь была картинка джойстика.      --------------------------- -->
+
+				<div class='landing-con-right content-remove mainPartJoystick bothPictures'>
+					<div class='landing-img-hero stylesOfMainPart' style="background: url(/img/cowsFeed.jpg) no-repeat center; background-size: contain; border-radius: 10%;">
+					</div>
+					<div class='landing-img-hero styless' style="background: url(/img/enaktusImage.jpg) no-repeat center; background-size: contain; border-radius: 10%;">
 					</div>
 				</div>
+<style>
+	.bothPictures{
+		margin-top:-5%
+	}
+	.stylesOfMainPart{
+		width:70%;
+		margin-left: 20% 
+	}
+	.styless{
+		width:70%;
+		margin-top:30%;
+		opacity:1
+	}
+	</style>
+
+<!-- ----------------------------------------------------------------------------------------- -->
 			</div>
 		</div>
 	</div>
