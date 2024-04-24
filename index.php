@@ -151,18 +151,18 @@
 		</div>
 	</div>
 <!-- -----------------------------     Здесь был блок Play Beyond.      --------------------------- -->
-<!-- ----------------------------------- Features  -------------------------------------------------------- -->
+	
 	<div class="landing-con-video darkmode-feature">
 	<div class="featured-img-overlay darkmode-invert">
 		</div>
 		<div class="content-con-outside">
-			<div class="content-btn-left darkmode-arrow-left left" href="#myCarousel" data-slide="prev" >
+			<div class="content-btn-left darkmode-arrow-left left" href="#myCarousel" data-slide="prev">
 			</div>
-			<div class="content-btn-right darkmode-arrow-right right" href="#myCarousel" data-slide="next" >
+			<div class="content-btn-right darkmode-arrow-right right" href="#myCarousel" data-slide="next">
 			</div>
 			<div class="content-con-inside">
 				<div class="video-tx1-heading darkmode-txt">
-					<h2>Особенности.</h2>
+					<h2>Featured.</h2>
 				</div>
 				<div class="video-con-divider">
 				</div>
@@ -170,44 +170,67 @@
 			</div>
 		</div>
 	</div>
-<!-- -------------------------------------------- -->
+<!-- --------------------Здесь начинается блок с рекламой Discord которую поменяли на Instagram-------------------------->
 	<div class="landing-con-discord darkmode-discord">
-	<div class="discord-img-overlay">
-		</div>
-		<div class="discord-left-logo">
-			<img alt="Discord Left Banner" src="/img/graphics/svg/discord-left.svg" style="width: 100%; height: 100%;">
-		</div>
+		<style>
+			.landing-con-discord {
+				overflow:hidden;
+				position:relative;
+				width:100%;
+				height:700px;
+				min-height:500px;
+				max-height:938px;
+				background: linear-gradient(to bottom, #D232AE, #D532AD, #D434AC, #D735AB, #D836AB, #DA37A8, #DC3AA8, #E03CA7, #E43FA3, #E941A0, #EC4690, #EC4884, #EC4B8E, #EC4D95, #ED4D9D)
+			}
+		</style>
 		<div class="discord-center-logo">
-			<img alt="Discord Logo" src="/img/graphics/svg/discord-center.svg" style="width: 100%; height: 100%;">
+			<img alt="Discord Logo" src="img/insta.png" style="width: 100%; height: 100%;">
+			<style>
+				.discord-center-logo {
+					position:absolute;
+					top:auto;
+					bottom:-20%;
+					width:100%;
+					left: -25%
+				}
+			</style>
 		</div>
-		<div class="discord-right-logo">
-			<img alt="Discord Right Banner" src="/img/graphics/svg/discord-right.svg" style="width: 100%; height: 100%;">
-		</div>	
 		<div class="content-con-outside">
 			<div class="content-con-inside">
 				<div class="discord-con-container">
 					<div class="discord-con-logo">
-						<div class="discord-img-logo">
-						</div>
 					</div>
 					<div class="discord-con-mantra">
 						<div class="discord-wrp-mantra scale-content-txt-1">
 							<div class="discord-tx1-mantra darkmode-txt">
-								<h2>Join the Discord.</h2>
+								<h2>Присоединяйтесь в Instagram.</h2>
 								<div class="landing-con-divider">
 								</div>
 							</div>
 							<div class="discord-tx2-mantra darkmode-txt">
 								<p>
-									 We use Discord to house our community. Discord allows us to keep our conversations open and accessible. This applies to users new and old who wish to learn how to use, stay up to date and aid to the project's development.
+									 Cледите за нами в инстаграме
 								</p>
 							</div>
-							<a href="https://discord.me/rpcs3" target="_blank">
+							<a href="https://www.instagram.com/nan_uchun_gana/" target="_blank">
 							<div class="discord-btn-button">
 								<div class="discord-ico-button">
+									<style>
+										.discord-ico-button {
+											background:url("/img/instminilogo2.png") center center/24px no-repeat;
+											height:46px;
+											width:46px;
+											float:left
+										}
+									</style>
+									<style>
+										.discord-btn-button:hover .discord-ico-button {
+											background:url("/img/instminilogo.png") center center/24px no-repeat
+										}
+									</style>
 								</div>
 								<div class="discord-tx1-button">
-									<span>Join the discussion</span>
+									<span>Instagram</span>
 								</div>
 							</div>
 							</a>
@@ -220,6 +243,7 @@
 		<path class="discord-svg-animate" fill="#fff" fill-opacity="0.2" d="M140.881198,194.260295 C257.600568,129.32862 342.939626,119.84993 418.009939,203.154617 C493.080251,286.459305 545.728689,70.9046172 636.439626,63.9593047 C727.150564,57.0139922 768.99822,139.670242 858.802907,119.431961 C948.607595,99.1936797 1071.91228,-32.9977266 1243.91228,7.75227342 C1415.91228,48.5022734 1404.10369,208.584305 1508.27166,178.709305 C1612.43963,148.834305 1633.73291,79.913472 1711.63588,98.8569055 C1776.28676,114.577866 1819.96778,221.391836 1889.37253,185.808108 C2017.32661,120.206212 2004.01952,336.769569 2004.01952,336.769569 L271.635881,337 L-149.063338,337 C-149.063338,337 -245.850307,175.637635 -58.0633382,228.867188 C33.8652851,254.92501 64.1722713,236.933925 140.881198,194.260295 Z"></path>
 		</svg>
 	</div>
+<!-- ---------------------------------------------->
 	<div class="landing-con-adsense">
 		<div class='adsense-tx1-description darkmode-txt'>
 			<span>Advertisement</span>

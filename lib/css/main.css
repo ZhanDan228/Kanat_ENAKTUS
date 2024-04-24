@@ -1718,7 +1718,7 @@ a:hover {
 	height:700px;
 	min-height:500px;
 	max-height:938px;
-	background:#404eed
+	background:#fd30c0
 }
 .landing-con-container-invert {
 	color:#455971!important
@@ -2066,7 +2066,7 @@ a:hover {
 	width:100%
 }
 .discord-img-overlay {
-	background:url("/img/graphics/landing/ol-discord.png") center/cover repeat;
+	background:white center/cover repeat;
 	width:100%;
 	height:100%;
 	position:absolute;
@@ -2659,7 +2659,7 @@ a:hover {
 }
 .handheld-tx1-title {
 	font-family:'Roboto-Bold';
-	font-size:12px;
+	font-size:24px;
 	line-height:30px;
 	text-align:center;
 	position:relative;
