@@ -162,7 +162,7 @@
 			</div>
 			<div class="content-con-inside">
 				<div class="video-tx1-heading darkmode-txt">
-					<h2>Featured.</h2>
+					<h2>Особенности</h2>
 				</div>
 				<div class="video-con-divider">
 				</div>
@@ -189,7 +189,7 @@
 				.discord-center-logo {
 					position:absolute;
 					top:auto;
-					bottom:-20%;
+					bottom:-28%;
 					width:100%;
 					left: -25%
 				}
