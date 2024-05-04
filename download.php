@@ -63,7 +63,7 @@ if (@include_once("lib/compat/objects/Build.php"))
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>Latest Builds</h2>
+						<h2>Наши сотрудники</h2>
 					</div>
 				</div>
 			</div>
