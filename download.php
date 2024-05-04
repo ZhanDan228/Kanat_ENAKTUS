@@ -45,13 +45,13 @@ if (@include_once("lib/compat/objects/Build.php"))
 		</div>
 		<div class='banner-con-title fade-up-onstart'>
 			<div class='banner-tx1-title fade-up-onstart pulsate'>
-				<h1>Download</h1>
+				<h1>Сотрудничество</h1>
 			</div>
 			<div class='banner-con-divider'>
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Download our latest releases
+					 Ознакомьтесь с ресторанами, которые с нами сотрудничают.
 				</p>
 			</div>
 		</div>
@@ -67,7 +67,13 @@ if (@include_once("lib/compat/objects/Build.php"))
 					</div>
 				</div>
 			</div>
-		<?php include 'lib/module/download/inc-download-buildbar.php';?>
+
+			<!-- ---------------------------------------- -->
+
+		<!-- <?php include 'lib/module/download/inc-download-buildbar.php';?> -->
+
+		<!-- ------------------------------ -->
+
 		<?php include 'lib/module/download/inc-download-platform.php';?>
 			<div class='container-con-block darkmode-block'>
 				<div class='container-con-wrapper'>
