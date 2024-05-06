@@ -14,7 +14,7 @@
 			<p>
 				 We do not condone piracy of any kind. <u>Asking</u> for, <u>providing</u> or <u>discussing</u> illegal download links is <b>not allowed</b> in our communities.<br>
 				<br>
-				 Purchasing legitimate game copies, through the <u>PlayStation Store</u> or through acquiring game discs, and using those copies with RPCS3 is the best way to ensure you will have a clean copy that will work with the emulator. You can use your <b>legal</b> copies with RPCS3 by following the instructions in our <a href="/quickstart" target="_blank">Quickstart</a> guide.
+				 Purchasing legitimate game copies, through the <u>PlayStation Store</u> or through acquiring game discs, and using those copies with RPCS3 is the best way to ensure you will have a clean copy that will work with the emulator. You can use your <b>legal</b> copies with RPCS3 by following the instructions in our <a href="/breadAndFodder" target="_blank">Bread And Fodder</a> guide.
 			</p>
 		</div>
 		<div class="mini-menu-btn-agree">
@@ -145,17 +145,17 @@
 				<span>О проекте</span>
 			</div>
 			</a>
-			<a href='/download'>
+			<a href='/parnership'>
 			<div class="menu-btn-select">
 				<span>Сотрудничество</span>
 			</div>
 			</a>
-			<a href='/quickstart'>
+			<a href='/breadAndFodder'>
 			<div class="menu-btn-select">
 				<span>Хлеб и корм</span>
 			</div>
 			</a>
-			<a href='/roadmap'>
+			<a href='/news'>
 			<div class="menu-btn-select">
 				<span>Новости</span>
 			</div>
@@ -172,7 +172,7 @@
 				<span>Wiki</span>
 			</div>
 			</a>
-			<a href='https://discord.me/RPCS3' target="_blank">
+			<a href='https://www.instagram.com/nan_uchun_gana/' target="_blank">
 			<div class="menu-btn-select">
 				<span>Instagram</span>
 			</div>
@@ -220,21 +220,21 @@
 				</div>
 				</a>
 			
-				<a href="/download">
+				<a href="/parnership">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
 					<span>Сотрудничество</span>
 				</div>
 				</a>
-				<a href="/quickstart">
+				<a href="/breadAndFodder">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
 					<span>Хлеб и корм</span>
 				</div>
 				</a>
-				<a href="/roadmap">
+				<a href="/news">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>

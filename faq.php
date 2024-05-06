@@ -77,7 +77,7 @@
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 Please refer to the <a href="/quickstart">Quickstart Guide</a> for detailed information on how to get started.
+							 Please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a> for detailed information on how to get started.
 						</p>
 					</div>
 				</div>
@@ -133,7 +133,7 @@
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 In its current state, RPCS3 does not support reading game data directly from PlayStation 3 format discs. PlayStation 3 discs are formatted in a very special way that can only be read with an actual PlayStation 3 system, or a compatible Blu-ray drive from select manufacturers. For more information on what Blu-ray drives are capable of reading games, please refer to the <a href="/quickstart">Quickstart Guide</a>.
+							 In its current state, RPCS3 does not support reading game data directly from PlayStation 3 format discs. PlayStation 3 discs are formatted in a very special way that can only be read with an actual PlayStation 3 system, or a compatible Blu-ray drive from select manufacturers. For more information on what Blu-ray drives are capable of reading games, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
 						</p>
 					</div>
 				</div>
@@ -151,7 +151,7 @@
 						</p>
 						<br>
 						<p>
-							 You can also dump games using select compatible Blu-ray drives. Not every Blu-ray drive will recognize PlayStation 3 games due to how data is formatted on the disc. For more information on what Blu-ray drives are capable of reading games, please refer to the <a href="/quickstart">Quickstart Guide</a>.
+							 You can also dump games using select compatible Blu-ray drives. Not every Blu-ray drive will recognize PlayStation 3 games due to how data is formatted on the disc. For more information on what Blu-ray drives are capable of reading games, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
 						</p>
 					</div>
 				</div>
@@ -165,7 +165,7 @@
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 You will need two different tools for dumping PlayStation 3 game discs from a Blu-ray drive. For more information on how to get started dumping your own games, please refer to the <a href="/quickstart">Quickstart Guide</a>.
+							 You will need two different tools for dumping PlayStation 3 game discs from a Blu-ray drive. For more information on how to get started dumping your own games, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
 						</p>
 					</div>
 				</div>
@@ -193,7 +193,7 @@
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 Local-multiplayer is completely supported. We support up to 7 concurrent controllers at any given time, just like original PlayStation 3 hardware on both Windows and Linux. The controllers can be assigned with a wide range of configurations. For example, one player can use a keyboard while another can use a compatible gamepad. To learn more about compatible gamepads, please refer to the <a href="/quickstart">Quickstart Guide</a>.
+							 Local-multiplayer is completely supported. We support up to 7 concurrent controllers at any given time, just like original PlayStation 3 hardware on both Windows and Linux. The controllers can be assigned with a wide range of configurations. For example, one player can use a keyboard while another can use a compatible gamepad. To learn more about compatible gamepads, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
 						</p>
 					</div>
 				</div>
@@ -207,7 +207,7 @@
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 Yes, saves can be imported from a real PlayStation 3 system using the standard USB flash drive transfer method. Due to how the user account system works on a real PlayStation 3 system, in some cases, you may need to re-sign your save. For more information on how to manage your save data within RPCS3, please refer to the <a href="/quickstart">Quickstart Guide</a>.
+							 Yes, saves can be imported from a real PlayStation 3 system using the standard USB flash drive transfer method. Due to how the user account system works on a real PlayStation 3 system, in some cases, you may need to re-sign your save. For more information on how to manage your save data within RPCS3, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
 						</p>
 					</div>
 				</div>

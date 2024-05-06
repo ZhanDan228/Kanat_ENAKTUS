@@ -24,6 +24,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <?php include 'lib/module/sys-css.php';?>
 <?php include 'lib/module/sys-js.php';?>
+<?php include 'lib/module/home/inc-home-player.php'?>
 </head>
 <body>
 <?php include 'lib/module/sys-php.php';?>
@@ -58,9 +59,9 @@
 		<div class="page-in-container">
 			<div class="markdown darkmode-block">
 				<?php
-				if (file_exists('cache/roadmap_cached.php'))
+				if (file_exists('cache/news_cached.php'))
 				{
-					include 'cache/roadmap_cached.php';
+					include 'cache/news_cached.php';
 				}
 				?>
 			</div>
