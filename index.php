@@ -28,29 +28,10 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6161192934701994" crossorigin="anonymous"></script>
 </head>
 <body>
-<img src="" width="1" height="1" alt="preload"/>
-<img src="/img/videos/1.jpg" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/2.jpg" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/3.jpg" width="1" height="1" alt="Preload"/>
+
 <?php include 'lib/module/sys-php.php';?>
 <?php include 'lib/module/home/inc-home-player.php'?>
-<?php
-	preloadVideo(
-	'1',
-	'19ae5Mq2lJE',
-	'1'
-	);
-	preloadVideo(
-	'2',
-	'mKON3RwjnEU',
-	'2'
-	);
-	preloadVideo(
-	'3',
-	'xUpw9bHmoac',
-	'3'
-	);
-?>
+
 
 <!-- ---------------------  Отвечает за волну на первой странице  -------------------------- -->
 
@@ -71,7 +52,7 @@
 	<div class="landing-con-main">
 		<!-- <div id="object-particles">
 		</div> -->
-		<div class="content-con-backdrop darkmode-header" style="background: linear-gradient(-135deg, rgb(255, 255, 0) 25%, rgb(255, 215, 0) 100%);">
+		<div class="content-con-backdrop darkmode-header" style="background: url('/img/BreadForMainPageBack.jpg');">
 		</div>
 		<div class="content-con-outside">
 			<div class="content-con-inside">
@@ -86,11 +67,11 @@
 <!-- ------------------------------------------------------------------------ -->
 
 						<div class='landing-tx1-heading pulsate'>
-							<h1>Enaktus<br>
+							<h1 style='font-size: 170%'>Enaktus<br>
 							 Нан үчүн гана</h1>
 						</div>
 						<div class='landing-tx2-heading'>
-							<p>
+							<p style="font-size: 120%">
 							Первый в Кыргызстане проект сбора и использования ненужных вещей в корм.
 							</p>
 
@@ -126,18 +107,18 @@
 <!-- -----------------------------     Здесь была картинка джойстика.      --------------------------- -->
 
 				<div class='landing-con-right content-remove mainPartJoystick bothPictures'>
-					<div class='landing-img-hero stylesOfMainPart' style="background: url(/img/cowsFeed.jpg) no-repeat center; background-size: contain; border-radius: 10%;">
-					</div>
-					<div class='landing-img-hero styless' style="background: url(/img/enaktusImage.jpg) no-repeat center; background-size: contain; border-radius: 10%;">
-					</div>
+					<!-- <div class='landing-img-hero stylesOfMainPart' style="background: url(/img/proverb.png) no-repeat center; background-size: contain; border-radius: 10%;">
+					</div> -->
+					<!-- <div class='landing-img-hero styless' style="background: url(/img/proverb.png) no-repeat center; background-size: contain; border-radius: 10%;">
+					</div> -->
 				</div>
 <style>
 	.bothPictures{
 		margin-top:-5%
 	}
 	.stylesOfMainPart{
-		width:70%;
-		margin-left: 20% 
+		width:100%;
+		margin-left: -10% 
 	}
 	.styless{
 		width:70%;
@@ -200,7 +181,7 @@
 				}
 				@media (max-width:361px){
 					.adaptiveInstaLogo{
-					margin-bottom:180%;
+					margin-bottom:170%;
 				}
 				}
 				
@@ -255,7 +236,7 @@
 		</svg>
 	</div>
 <!-- ---------------------------------------------->
-	<div class="landing-con-adsense">
+	<!-- <div class="landing-con-adsense">
 		<div class='adsense-tx1-description darkmode-txt'>
 			<span>Advertisement</span>
 		</div>
@@ -269,7 +250,7 @@
 				</script>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<div class="landing-con-contribute darkmode-github">
 		<div class="github-img-backdrop">
 		</div>
@@ -340,9 +321,9 @@
 		</div>
 	</div>
 	<div class="landing-con-adsense">
-		<div class='adsense-tx1-description darkmode-txt'>
-			<span>Advertisement</span>
-		</div>
+			<!-- <div class='adsense-tx1-description darkmode-txt'>
+				<span>Advertisement</span>
+			</div> -->
 		<div class="adsense-con-container darkmode-slimbar div-css-board-ad">
 			<div class="adsense-con-frame">
 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">

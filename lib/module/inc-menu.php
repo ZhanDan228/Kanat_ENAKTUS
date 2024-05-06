@@ -117,27 +117,27 @@
 <!-- -------------------------      logo           --> 
 			<div class="menu-con-logo">
 				<a href='/'>
-				<img src="/img/icons/mainLogo.png" style="width:110%"  class="menu-ico-logo" />
+				<img src="/img/icons/mainLogoNew.png"  class="menu-ico-logo12" />
 				</a>
+				<style>
+	.menu-ico-logo12 {
+	position:absolute;
+	width:100px;
+	height:70px;
+	margin-left:-30%;
+	border-bottom:2px solid transparent;
+	transition:all .1s ease-in-out 0s
+}
+				</style>
 			</div>
 <!-- ------------------------- -->
 			<div class="mobile-menu-btn-open toggle-mobilemenu">
 			</div>
 			<div class="mobile-menu-btn-darkmode toggle-darkmode">
 			</div>
-			<a href='/blog'>
-			<div class="menu-btn-select">
-				<span>Blog</span>
-			</div>
-			</a>
 			<a href='/about'>
 			<div class="menu-btn-select">
-				<span>About</span>
-			</div>
-			</a>
-			<a href='/compatibility'>
-			<div class="menu-btn-select">
-				<span>Compatibility</span>
+				<span>О проекте</span>
 			</div>
 			</a>
 			<a href='/download'>
@@ -197,11 +197,13 @@
 	</div>
 </div>
 <div class='mobile-menu-con-container popup-mobilemenu' style="display:none;">
+
 	<div class="menu-con-backdrop-2">
 	</div>
 	<div class='mobile-menu-con-scroll'>
 		<div class="mobile-menu-con-outter">
-			<div class="mobile-menu-con-inner" style="overflow: hidden !important;">
+			<div class="mobile-menu-con-inner backWhite" style="overflow: hidden !important;">
+
 				<div class='mobile-menu-tx1-group'>
 					<span>Main</span>
 				</div>
