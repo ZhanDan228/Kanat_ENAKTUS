@@ -174,9 +174,14 @@
 					width:100%;
 					left: -25%
 				}
-				@media (max-width:431px){
+				@media (max-width:430px){
 					.adaptiveInstaLogo{
-					margin-bottom:35%;
+					margin-bottom:145%;
+				}
+				}
+				@media (max-width:390px){
+					.adaptiveInstaLogo{
+					margin-bottom:165%;
 				}
 				}
 				
