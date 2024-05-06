@@ -18,7 +18,7 @@
 		<p class="download-desc">
 			 Now that you have validated the type of hardware you plan to use with RPCS3, you can use this section to select the appropriate version of the emulator for use with your device.<br>
 			<br>
-			<b>For less common platforms and/or previous builds, see the <a href='/download' target="_blank">downloads</a> page for our full catalog.</b>
+			<b>For less common platforms and/or previous builds, see the <a href='/parnership' target="_blank">downloads</a> page for our full catalog.</b>
 		</p>
 	</div>
 </div>

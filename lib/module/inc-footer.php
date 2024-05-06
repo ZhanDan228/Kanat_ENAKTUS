@@ -38,17 +38,17 @@
 										</a>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="/download">
+										<a href="/parnership">
 										<span>Download</span>
 										</a>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="/quickstart">
+										<a href="/breadAndFodder">
 										<span>Quickstart</span>
 										</a>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="/roadmap">
+										<a href="/news">
 										<span>Roadmap</span>
 										</a>
 									</div>
