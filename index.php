@@ -174,14 +174,14 @@
 					width:100%;
 					left: -25%
 				}
-				@media (max-width:431px){
+				@media (max-width:430px){
 					.adaptiveInstaLogo{
-					margin-bottom:180%;
+					margin-bottom:145%;
 				}
 				}
-				@media (max-width:361px){
+				@media (max-width:390px){
 					.adaptiveInstaLogo{
-					margin-bottom:170%;
+					margin-bottom:165%;
 				}
 				}
 				
@@ -279,7 +279,6 @@
 Инновации: Работаем с передовыми технологиями.
 Экологичность: Создаем устойчивую модель потребления.
 Команда: Профессиональная и мотивированная.
-Если вы разделяете наши ценности и хотите внести свой вклад в устойчивое будущее, присоединяйтесь к нам!
 								</p>
 							</div>
 							<a href="mailto:zanbolotov.daniel2004@gmail.com" target="_blank">

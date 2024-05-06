@@ -1,6 +1,6 @@
 <div class="sidebar-btn-open nav-standard scale-menu-btn-remove">
 	<div class='sidebar-btn-tx1-tooltip pulsate'>
-		<span>Table of Contents</span>
+		
 	</div>
 </div>
 <div class='sidebar-con-dimmer toggle-navsidebar' style="display:block">

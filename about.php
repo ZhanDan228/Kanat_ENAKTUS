@@ -27,7 +27,7 @@
 <body>
 <?php include 'lib/module/sys-php.php';?>
 <div class="page-con-content">
-	<div class="banner-con-container darkmode-header">
+	<div class="banner-con-container darkmode-header" style="background: url('/img/BreadForMainPageBack.jpg');">
 
 		<div class="wavebar-con-container">
 			<div class="wavebar-con-wrap">

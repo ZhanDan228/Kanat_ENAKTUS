@@ -44,11 +44,13 @@
 }
 
 .package-con-button:hover {
-    background: #4b1a64;
+    transform: scale(1.1); /* Увеличиваем размер кнопки на 10% при наведении курсора */
+	background: #833ab4;
     background: linear-gradient(
         to right,
-        #4b1a64, #b70000, #a17400
+        #833ab4, #fd1d1d, #fcb045
     );
+    border: 2px solid red; /* Здесь указано свойство border для создания границы */
 }
 
 			</style>

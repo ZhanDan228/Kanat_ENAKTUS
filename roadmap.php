@@ -43,13 +43,13 @@
 		</div>
 		<div class='banner-con-title fade-up-onstart'>
 			<div class='banner-tx1-title fade-up-onstart pulsate'>
-				<h1>Roadmap</h1>
+				<h1>Новости</h1>
 			</div>
 			<div class='banner-con-divider'>
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Goals that have been set for the project
+					Работа над разделом "Новости" продолжается...
 				</p>
 			</div>
 		</div>
