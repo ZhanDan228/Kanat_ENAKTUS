@@ -165,7 +165,7 @@
 			}
 		</style>
 		<div class="discord-center-logo">
-			<img alt="Discord Logo" src="img/insta.png" style="width: 100%; height: 100%;" class="adaptiveInstaLogo">
+			<img alt="Discord Logo" src="img/insta.png" style="width: 100%; height: 100%;">
 			<style>
 				.discord-center-logo {
 					position:absolute;
@@ -174,6 +174,7 @@
 					width:100%;
 					left: -25%
 				}
+
 				@media (max-width:430px){
 					.adaptiveInstaLogo{
 					margin-bottom:145%;
@@ -185,6 +186,7 @@
 				}
 				}
 				
+
 			</style>
 		</div>
 		<div class="content-con-outside">
@@ -254,7 +256,7 @@
 	<div class="landing-con-contribute darkmode-github">
 		<div class="github-img-backdrop">
 		</div>
-		<div class="">
+		<div class="github-img-overlay">
 		</div>
 		<div class="content-con-outside">
 			<div class="content-con-inside">
@@ -266,12 +268,13 @@
 					<div class="github-con-mantra">
 						<div class="github-wrp-mantra scale-content-txt-1 ">
 							<div class="github-tx1-mantra">
-								<h2>Посотрудничаем?</h2>
+								<h2>Contributing Code.</h2>
 								<div class="landing-con-divider" style="background: #9647c7">
 								</div>
 							</div>
 							<div class="github-tx2-mantra darkmode-txt">
 								<p>
+
 								Мы в Ecolibris занимаемся утилизацией пищевых отходов, превращая их в корм для животных.
 
 Почему присоединиться к нам?
@@ -280,37 +283,15 @@
 Экологичность: Создаем устойчивую модель потребления.
 Команда: Профессиональная и мотивированная.
 
+
 								</p>
 							</div>
-							<a href="mailto:zanbolotov.daniel2004@gmail.com" target="_blank">
+							<a href="https://github.com/rpcs3" target="_blank">
 							<div class="github-btn-button">
-								<div class="github-ico-button emailStyle">
+								<div class="github-ico-button">
 								</div>
-								<style>
-.emailStyle{
-	background:url("/img/emailLogo.png") center center/24px no-repeat;
-	height:46px;
-	width:46px;
-	float:left
-}
-.github-btn-button:hover .github-ico-button {
-	background:url("/img/emailLogoOpened.jpg") center center/24px no-repeat
-}
-.github-img-logo {
-	height:100%;
-	width:100%;
-	background:url("/img/enaktusCircleLogo-transformed-modified.png") center center/contain no-repeat
-}
-.github-img-backdrop {
-	background:url("/img/sunflowersBackground.jpg") center center/cover repeat;
-	width:100%;
-	height:100%;
-	position:absolute;
-	opacity:.1
-}
-								</style>
 								<div class="github-tx1-button">
-									<span>Email</span>
+									<span>Join the project</span>
 								</div>
 							</div>
 							</a>
@@ -350,17 +331,16 @@
 					<div class="patreon-con-mantra">
 						<div class="patreon-wrp-mantra scale-content-txt-1 ">
 							<div class="patreon-tx1-mantra">
-								<h2>Поддержите Ecolibris на Patreon!</h2>
+								<h2>We're on Patreon.</h2>
 								<div class="landing-con-divider" style="background: #ff424d">
 								</div>
 							</div>
 							<div class="patreon-tx2-mantra darkmode-txt">
 								<p>
-								Ваши пожертвования помогут нам улучшить нашу работу и создать более чистое и устойчивое будущее. Ваше имя будет в списке спонсоров на сайт.<br>
-								Аттрибуты для оплаты ....
+									 Our developers are pushing the very boundaries of PlayStation 3 emulation. Our rapid progression would not be possible without our contributors and Patrons. Our patrons not only keep us motivated, but keep our lead developers working on the project full time.
 								</p>
 							</div>
-							<!-- <a href="https://www.patreon.com/Nekotekina" target="_blank">
+							<a href="https://www.patreon.com/Nekotekina" target="_blank">
 							<div class="patreon-btn-button">
 								<div class="patreon-ico-button">
 								</div>
@@ -368,17 +348,7 @@
 									<span>Become a Patron</span>
 								</div>
 							</div>
-							</a> -->
-							<style>
-								.patreon-img-backdrop {
-	background:url("https://www.desktopbackground.org/download/3840x2160/2012/01/31/336633_anime-scenery-on-pinterest_4323x3035_h.jpg") center bottom/cover repeat;
-	width:100%;
-	height:100%;
-	position:absolute;
-	opacity:.1
-}
-
-							</style>
+							</a>
 						</div>
 					</div>
 				</div>
