@@ -27,9 +27,8 @@
 <body>
 <?php include 'lib/module/sys-php.php';?>
 <div class="page-con-content">
-	<div class="banner-con-container darkmode-header">
-		<div id="object-particles">
-		</div>
+	<div class="banner-con-container darkmode-header" style="background: url('/img/BreadForMainPageBack.jpg');">
+
 		<div class="wavebar-con-container">
 			<div class="wavebar-con-wrap">
 				<div class="wavebar-svg-object">
@@ -40,13 +39,13 @@
 		</div>
 		<div class='banner-con-title fade-up-onstart'>
 			<div class='banner-tx1-title fade-up-onstart pulsate'>
-				<h1>About</h1>
+				<h1>О проекте</h1>
 			</div>
 			<div class='banner-con-divider'>
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Learn about us and meet the developers
+					 Узнайте больше о нашем проекте и с нашими участниками.
 				</p>
 			</div>
 		</div>
@@ -60,26 +59,26 @@
 							<div class='container-tx1-block darkmode-txt'>
 								<div class='container-emp-block'>
 								</div>
-								<h2>The Project</h2>
+								<h2>Проект</h2>
 							</div>
 							<div class='container-tx2-block darkmode-txt'>
 								<p>
-									 RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD. The purpose of the project is to completely and accurately emulate the Sony PlayStation 3 Computer Entertainment System in its entirety with the power of open-source community and reverse engineering. <br>
+									 
+Наша команда, Encatus, занимается созданием проекта под названием "Нан үчүн гана". Мы стремимся использовать выброшенную пищу и превратить её в корм для животных. Наша цель состоит в том, чтобы превратить процесс выброса еды в полезное действие. Мы считаем, что многие виды пищи, которые обычно выбрасываются, всё ещё могут быть использованы, чтобы обеспечить пищей животных и тем самым сделать что-то полезное для общества. <br>
 									<br>
-									 Our goal is to preserve the legacy of the PlayStation 3 hardware and its vast library by bringing it and its exclusives to the PC platform. We want to achieve this by targeting and supporting multiple operating systems as well as being compatible with a wide range of computer hardware with realistic requirements.
-								</p>
+									Мы стремимся к тому, чтобы эта инициатива помогла не только сократить количество продуктов питания, выбрасываемых в мусор, но и обеспечить нуждающихся животных качественным кормом. Мы верим, что наш подход поможет уменьшить негативное воздействие на окружающую среду, связанное с выбросом пищевых продуктов, и сделает мир немного лучше для нас всех.
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class='splitter-img-container splitter-con-right'>
-					<div class='splitter-img-wrapper' style="background: url('/img/graphics/about/project.jpg') no-repeat center; background-size: cover;">
+					<div class='splitter-img-wrapper' style="background: url('/img/aboutPageTheProject.jpg') no-repeat center; background-size: cover;">
 					</div>
 				</div>
 			</div>
 			<div class='splitter-con-container'>
 				<div class='splitter-img-container splitter-con-left'>
-					<div class='splitter-img-wrapper' style="background: url('/img/graphics/about/history.jpg') no-repeat center; background-size: cover;">
+					<div class='splitter-img-wrapper' style="background: url('/img/aboutPageHistory.jpeg') no-repeat center; background-size: cover;">
 					</div>
 				</div>
 				<div class='splitter-txt-wrapper'>
@@ -88,13 +87,14 @@
 							<div class='container-tx1-block darkmode-txt'>
 								<div class='container-emp-block'>
 								</div>
-								<h2>The History (2011 — Present)</h2>
+								<h2>История</h2>
 							</div>
 							<div class='container-tx2-block darkmode-txt'>
 								<p>
-									 The project was founded by programmers DH and Hykem in May of 2011. RPCS3 was first hosted on Google Code and was eventually migrated to GitHub later on in its development. The emulator's first successful game boot were primarily composed of smaller homebrew projects and focused hardware tests. <br>
+									 
+Наша команда Enactus начала свой путь как группа студентов, объединившихся в рамках своего университета с общей целью внести позитивное изменение в мир через предпринимательские и социальные проекты. Начиная с момента нашего вступления в экономический университет, мы были вдохновлены возможностями, которые предоставляются нам, чтобы превратить наши идеи в реальность. Благодаря поддержке университета и инвесторов, мы смогли осуществить несколько успешных проектов, направленных на решение различных социальных и экологических проблем. <br>
 									<br>
-									 The emulator was later publicly released in June of 2012 and gained substantial attention from both the open-source community and PlayStation enthusiasts alike. Today, RPCS3 is co-developed by two new developers, Nekotekina and kd-11 in tandem with an amazing team of GitHub contributors.
+									Одним из наших самых значимых проектов стала инициатива "Нан үчүн гана", которая возникла из нашей страсти к уменьшению объемов продовольственных отходов и одновременно обеспечению животных качественным кормом. Наша команда преодолела множество вызовов на пути к реализации этой идеи, но благодаря нашему упорству и стремлению к успеху, мы смогли создать инновационный проект, который призван не только улучшить качество жизни животных, но и сделать мир немного лучше для всех нас.
 								</p>
 							</div>
 						</div>
@@ -108,20 +108,21 @@
 							<div class='container-tx1-block darkmode-txt'>
 								<div class='container-emp-block'>
 								</div>
-								<h2>The People</h2>
+								<h2>Участники</h2>
 							</div>
 							<div class='container-tx2-block darkmode-txt'>
 								<p>
-									 The project is currently maintained and organized by a unique cast of characters, all with meaningful roles to contribute to different aspects of the project. Whether it's working on the emulator directly, coordinating community efforts or even keeping this very website current, everyone plays a role that adds to the bigger picture. <br>
+									
+В настоящее время проект "Нан үчүн гана" поддерживается и организуется уникальным составом участников, каждый из которых играет важную роль в различных аспектах проекта. Будь то активное участие в переработке выброшенной еды в корм для животных, координация усилий сообщества или даже обновление и поддержание данного веб-сайта в актуальном состоянии - каждый вносит свой вклад, который дополняет общую картину и помогает достичь наших целей. <br>
 									<br>
-									 Internal team members aren't the only contributors. A lot of the progress made in making PlayStation 3 emulation possible on PC is thanks to the many developers we've received contributions from in our GitHub community. While many developers do come and go, we do welcome anyone and everyone who is interested in improving the codebase.
+									Внутренние члены команды - это лишь часть участников проекта. Мы также ценим вклад многих разработчиков, которые помогают нам в развитии и улучшении процесса переработки еды и её превращения в корм для животных. Хотя многие из них могут приходить и уходить, мы приветствуем всех, кто заинтересован в нашей инициативе и готов внести свой вклад в улучшение нашего проекта.
 								</p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class='splitter-img-container splitter-con-right'>
-					<div class='splitter-img-wrapper' style="background: url('/img/graphics/about/team.jpg') no-repeat center; background-size: cover;">
+					<div class='splitter-img-wrapper' style="background: url('/img/aboutPageTeam.jpeg') no-repeat center; background-size: cover;">
 					</div>
 				</div>
 			</div>
@@ -130,11 +131,11 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>Founders</h2>
+						<h2>Основатели</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 A list of the project founders who are also considered former, non-active developers.
+							Список ключевых лиц в основании проекта.
 						</p>
 					</div>
 				</div>
@@ -145,11 +146,11 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>Current Developers</h2>
+						<h2>Программисты</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 A list of our developers who are working full-time and part-time on the project.
+							Люди, работающие не поклодая рук, над этим проектом.
 						</p>
 					</div>
 				</div>
@@ -160,11 +161,11 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>Former Developers</h2>
+						<h2>Инвесторы</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 A list of developers who have previously contributed to the project.
+						Наши инвесторы - люди, которые поддержали наш проект финансово.
 						</p>
 					</div>
 				</div>

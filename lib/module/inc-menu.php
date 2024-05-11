@@ -14,7 +14,7 @@
 			<p>
 				 We do not condone piracy of any kind. <u>Asking</u> for, <u>providing</u> or <u>discussing</u> illegal download links is <b>not allowed</b> in our communities.<br>
 				<br>
-				 Purchasing legitimate game copies, through the <u>PlayStation Store</u> or through acquiring game discs, and using those copies with RPCS3 is the best way to ensure you will have a clean copy that will work with the emulator. You can use your <b>legal</b> copies with RPCS3 by following the instructions in our <a href="/quickstart" target="_blank">Quickstart</a> guide.
+				 Purchasing legitimate game copies, through the <u>PlayStation Store</u> or through acquiring game discs, and using those copies with RPCS3 is the best way to ensure you will have a clean copy that will work with the emulator. You can use your <b>legal</b> copies with RPCS3 by following the instructions in our <a href="/breadAndFodder" target="_blank">Bread And Fodder</a> guide.
 			</p>
 		</div>
 		<div class="mini-menu-btn-agree">
@@ -109,7 +109,7 @@
 	</div>
 	<div class="menu-btn-settings toggle-settings">
 		<div class='menu-btn-tx1-settings-tooltip pulsate'>
-		<span>Settings</span>
+
 	</div>
 	</div>
 	<div class="menu-con-outer">
@@ -117,69 +117,64 @@
 <!-- -------------------------      logo           --> 
 			<div class="menu-con-logo">
 				<a href='/'>
-				<img src="/img/icons/mainLogo.png" style="width:110%"  class="menu-ico-logo" />
+				<img src="/img/icons/mainLogoNew.png"  class="menu-ico-logo12" />
 				</a>
+				<style>
+	.menu-ico-logo12 {
+	position:absolute;
+	width:100px;
+	height:70px;
+	margin-left:-30%;
+	border-bottom:2px solid transparent;
+	transition:all .1s ease-in-out 0s
+}
+				</style>
 			</div>
 <!-- ------------------------- -->
 			<div class="mobile-menu-btn-open toggle-mobilemenu">
 			</div>
 			<div class="mobile-menu-btn-darkmode toggle-darkmode">
 			</div>
-			<a href='/blog'>
+			<a href='/' style="margin-left:3%">
 			<div class="menu-btn-select">
-				<span>Blog</span>
+				<span>Главная</span>
 			</div>
 			</a>
 			<a href='/about'>
 			<div class="menu-btn-select">
-				<span>About</span>
+				<span>О проекте</span>
 			</div>
 			</a>
-			<a href='/compatibility'>
+			<a href='/parnership'>
 			<div class="menu-btn-select">
-				<span>Compatibility</span>
+				<span>Сотрудничество</span>
 			</div>
 			</a>
-			<a href='/download'>
+			<a href='/breadAndFodder'>
 			<div class="menu-btn-select">
-				<span>Download</span>
+				<span>Хлеб и корм</span>
 			</div>
 			</a>
-			<a href='/quickstart'>
+			<a href='/news'>
 			<div class="menu-btn-select">
-				<span>Quickstart</span>
-			</div>
-			</a>
-			<a href='/roadmap'>
-			<div class="menu-btn-select">
-				<span>Roadmap</span>
+				<span>Новости</span>
 			</div>
 			</a>
 			<a href='/faq'>
 			<div class="menu-btn-select">
-				<span>FAQs</span>
+				<span>Часто задаваемые вопрсы</span>
 			</div>
 			</a>
 			<div class="menu-con-divider">
 			</div>
-			<a href='https://github.com/rpcs3' target="_blank">
-			<div class="menu-btn-select">
-				<span>GitHub</span>
-			</div>
-			</a>
-			<a href='https://forums.rpcs3.net' target="_blank">
-			<div class="menu-btn-select">
-				<span>Forum</span>
-			</div>
-			</a>
-			<a href='https://wiki.rpcs3.net'>
+			<a href='https://ru.wikipedia.org/wiki/Enactus'  target="_blank">
 			<div class="menu-btn-select">
 				<span>Wiki</span>
 			</div>
 			</a>
-			<a href='https://discord.me/RPCS3' target="_blank">
+			<a href='https://www.instagram.com/nan_uchun_gana/' target="_blank">
 			<div class="menu-btn-select">
-				<span>Discord</span>
+				<span>Instagram</span>
 			</div>
 			</a>
 			<a href='https://www.youtube.com/c/RPCS3_emu/videos' target="_blank">
@@ -197,11 +192,13 @@
 	</div>
 </div>
 <div class='mobile-menu-con-container popup-mobilemenu' style="display:none;">
+
 	<div class="menu-con-backdrop-2">
 	</div>
 	<div class='mobile-menu-con-scroll'>
 		<div class="mobile-menu-con-outter">
-			<div class="mobile-menu-con-inner" style="overflow: hidden !important;">
+			<div class="mobile-menu-con-inner backWhite" style="overflow: hidden !important;">
+
 				<div class='mobile-menu-tx1-group'>
 					<span>Main</span>
 				</div>
@@ -211,111 +208,71 @@
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
-					<span>Home</span>
+					<span>Домой</span>
 				</div>
 				</a>
-				<a href="/blog">
-				<div class='mobile-menu-btn-icon'>
-				</div>
-				<div class='mobile-menu-btn-select'>
-					<span>Blog</span>
-				</div>
-				</a>
+				
 				<a href="/about">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
-					<span>About</span>
+					<span>О проекте</span>
 				</div>
 				</a>
-				<a href="/compatibility">
+			
+				<a href="/parnership">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
-					<span>Compatibility</span>
+					<span>Сотрудничество</span>
 				</div>
 				</a>
-				<a href="/download">
+				<a href="/breadAndFodder">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
-					<span>Download</span>
+					<span>Хлеб и корм</span>
 				</div>
 				</a>
-				<a href="/quickstart">
+				<a href="/news">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
-					<span>Quickstart</span>
-				</div>
-				</a>
-				<a href="/roadmap">
-				<div class='mobile-menu-btn-icon'>
-				</div>
-				<div class='mobile-menu-btn-select'>
-					<span>Roadmap</span>
+					<span>Новости</span>
 				</div>
 				</a>
 				<a href="/faq">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
-					<span>FAQs</span>
+					<span>Часто задаваемые вопросы</span>
 				</div>
 				</a>
-				<a href="https://forums.rpcs3.net" target="_blank">
-				<div class='mobile-menu-btn-icon'>
-				</div>
-				<div class='mobile-menu-btn-select'>
-					<span>Forum</span>
-				</div>
-				</a>
-				<a href='https://wiki.rpcs3.net'>
+
+				<a href='https://ru.wikipedia.org/wiki/Enactus'>
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
 					<span>Wiki</span>
 				</div>
 				</a>
-				<div class='mobile-menu-tx1-group'>
-					<span>Internal</span>
-				</div>
-				<div class='mobile-menu-con-divider'>
-				</div>
-				<a href="/branding">
-				<div class='mobile-menu-btn-icon'>
-				</div>
-				<div class='mobile-menu-btn-select'>
-					<span>Branding</span>
-				</div>
-				</a>
-				<a href="/disclaimer">
-				<div class='mobile-menu-btn-icon'>
-				</div>
-				<div class='mobile-menu-btn-select'>
-					<span>Disclaimer</span>
-				</div>
-				</a>
+
+
+
 				<div class='mobile-menu-tx1-group'>
 					<span>External</span>
 				</div>
 				<div class='mobile-menu-con-divider'>
 				</div>
-				<a href="https://github.com/rpcs3" target="_blank">
+
+				<a href="https://www.instagram.com/nan_uchun_gana/" target="_blank">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>
-					<span>GitHub</span>
+					<span>Instagram</span>
 				</div>
 				</a>
-				<a href="https://discord.me/RPCS3" target="_blank">
-				<div class='mobile-menu-btn-icon'>
-				</div>
-				<div class='mobile-menu-btn-select'>
-					<span>Discord</span>
-				</div>
-				</a>
-				<a href="https://www.youtube.com/c/RPCS3_emu/videos" target="_blank">
+				<a href="https://youtu.be/OM4zSh4U59s?si=K_7wI56m76QbnI7d" target="_blank">
 				<div class='mobile-menu-btn-icon'>
 				</div>
 				<div class='mobile-menu-btn-select'>

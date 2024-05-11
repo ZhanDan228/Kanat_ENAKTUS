@@ -31,27 +31,19 @@
 if (@include_once("lib/compat/objects/Build.php"))
 	$build = Build::get_latest();
 ?>
-<div class="page-con-content">
-	<div class="banner-con-container darkmode-header">
-		<div id="object-particles">
-		</div>
-		<div class="wavebar-con-container">
-			<div class="wavebar-con-wrap">
-				<div class="wavebar-svg-object">
-				</div>
-				<div class="wavebar-svg-object">
-				</div>
-			</div>
-		</div>
+<div class="page-con-content" >
+	<div class="banner-con-container darkmode-header" style="background: url('/img/BreadForMainPageBack.jpg');">
+
+
 		<div class='banner-con-title fade-up-onstart'>
 			<div class='banner-tx1-title fade-up-onstart pulsate'>
-				<h1>Download</h1>
+				<h1>Сотрудничество</h1>
 			</div>
 			<div class='banner-con-divider'>
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Download our latest releases
+					 Ознакомьтесь с ресторанами, которые с нами сотрудничают.
 				</p>
 			</div>
 		</div>
@@ -63,13 +55,19 @@ if (@include_once("lib/compat/objects/Build.php"))
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>Latest Builds</h2>
+						<h2>Наши сотрудники</h2>
 					</div>
 				</div>
 			</div>
-		<?php include 'lib/module/download/inc-download-buildbar.php';?>
+
+			<!-- ---------------------------------------- -->
+
+		<!-- <?php include 'lib/module/download/inc-download-buildbar.php';?> -->
+
+		<!-- ------------------------------ -->
+
 		<?php include 'lib/module/download/inc-download-platform.php';?>
-			<div class='container-con-block darkmode-block'>
+			<!-- <div class='container-con-block darkmode-block'>
 				<div class='container-con-wrapper'>
 					<div class='container-tx1-block darkmode-txt'>
 						<h2>Installing on a legacy OS</h2>
@@ -106,8 +104,8 @@ if (@include_once("lib/compat/objects/Build.php"))
 							 <b>Download dependencies </b><span class="highlight darkmode-highlight"><a href="https://aka.ms/vs/17/release/vc_redist.x64.exe" target="_blank">Microsoft Visual C++ 2019 Redistributable</a></span>
 						</p>
 					</div>
-				</div>
-			</div>
+				</div> -->
+			<!-- </div>
 			<div class='container-con-block darkmode-block'>
 				<div class='container-con-wrapper'>
 					<div class='container-tx1-block darkmode-txt'>
@@ -156,13 +154,13 @@ if (@include_once("lib/compat/objects/Build.php"))
 							<br>
 							<br>
 						</p>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-<div class="page-con-content darkmode-slimbar" style="background:#f7f7f7">
+<!-- <div class="page-con-content darkmode-slimbar" style="background:#f7f7f7">
 	<div class="page-con-container">
 		<div class="page-in-container">
 			<div class='container-con-block darkmode-block'>
@@ -225,11 +223,11 @@ if (@include_once("lib/compat/objects/Build.php"))
 				</a>
 				<a href='/cdn/docs/Docs.zip' download>
 				<div class="generic-btn-button">
-					<div class="generic-ico-button" style="background: url('/img/icons/buttons/docs-h.png') no-repeat center">
-					</div>
+					<div class="generic-ico-button" style="background: url('/img/icons/buttons/docs-h.png') no-repeat center"> -->
+					<!-- </div>
 					<div class="generic-tx1-button">
 						<span>Download Documentation <span class="generic-tx2-label">36 MB</span></span>
-					</div>
+					</div> -->
 				</div>
 				</a>
 			</div>

@@ -32,26 +32,18 @@ if (@include_once("lib/compat/objects/Build.php"))
 <?php include 'lib/module/sys-php.php';?>
 <?php include 'lib/module/inc-menu-quickstart.php';?>
 <div class="page-con-content">
-	<div class="banner-con-container darkmode-header">
-		<div id="object-particles">
-		</div>
-		<div class="wavebar-con-container">
-			<div class="wavebar-con-wrap">
-				<div class="wavebar-svg-object">
-				</div>
-				<div class="wavebar-svg-object">
-				</div>
-			</div>
-		</div>
+	<div class="banner-con-container darkmode-header" style="background: url('/img/BreadForMainPageBack.jpg');">
+
+
 		<div class='banner-con-title fade-up-onstart'>
 			<div class='banner-tx1-title fade-up-onstart pulsate'>
-				<h1>Quickstart</h1>
+				<h1>Хлеб и корм</h1>
 			</div>
 			<div class='banner-con-divider'>
 			</div>
 			<div class="banner-tx2-title fade-up-onstart">
 				<p>
-					 Get RPCS3 up and running on your PC, Mac or handheld
+					Работа над разделом "Хлеб и корм" продолжается...
 				</p>
 			</div>
 		</div>

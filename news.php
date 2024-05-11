@@ -24,6 +24,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <?php include 'lib/module/sys-css.php';?>
 <?php include 'lib/module/sys-js.php';?>
+<?php include 'lib/module/home/inc-home-player.php'?>
 </head>
 <body>
 <?php include 'lib/module/sys-php.php';?>
@@ -43,13 +44,13 @@
 		</div>
 		<div class='banner-con-title fade-up-onstart'>
 			<div class='banner-tx1-title fade-up-onstart pulsate'>
-				<h1>Roadmap</h1>
+				<h1>Новости</h1>
 			</div>
 			<div class='banner-con-divider'>
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Goals that have been set for the project
+					Работа над разделом "Новости" продолжается...
 				</p>
 			</div>
 		</div>
@@ -58,9 +59,9 @@
 		<div class="page-in-container">
 			<div class="markdown darkmode-block">
 				<?php
-				if (file_exists('cache/roadmap_cached.php'))
+				if (file_exists('cache/news_cached.php'))
 				{
-					include 'cache/roadmap_cached.php';
+					include 'cache/news_cached.php';
 				}
 				?>
 			</div>
