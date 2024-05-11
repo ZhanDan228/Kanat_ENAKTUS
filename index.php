@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>RPCS3 - The PlayStation 3 Emulator</title>
+<title>Ecolibris</title>
 <meta charset="utf-8">
 <meta name="description" content="RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD. The purpose of this project is to accurately emulate the PlayStation 3 in its entirety with the power of reverse engineering and community collaboration.">
 <meta name="keywords" content="rpcs3, playstation, playstation 3, ps3, emulator, debugger, windows, linux, macos, freebsd, open source, nekotekina, kd11, home">
@@ -283,6 +283,7 @@
 Экологичность: Создаем устойчивую модель потребления.
 Команда: Профессиональная и мотивированная.
 
+Если вы разделяете наши ценности и хотите внести свой вклад в устойчивое будущее, присоединяйтесь к нам!
 
 								</p>
 							</div>
