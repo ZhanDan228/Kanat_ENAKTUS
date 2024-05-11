@@ -43,7 +43,7 @@ if (@include_once("lib/compat/objects/Build.php"))
 			</div>
 			<div class="banner-tx2-title fade-up-onstart">
 				<p>
-					Работа над разделом "Хлеб и корм" продолжается...
+					Работа над разделом "Хлеб и корм" <span style="color:red">продолжается</span>...
 				</p>
 			</div>
 		</div>

@@ -50,7 +50,7 @@
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					Работа над разделом "Новости" продолжается...
+					Работа над разделом "Новости" <span style="color:red">продолжается</span>...
 				</p>
 			</div>
 		</div>
