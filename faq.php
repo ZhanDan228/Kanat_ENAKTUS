@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-<title>RPCS3 - FAQs</title>
+<title>Частые вопросы</title>
 <meta charset="utf-8">
 <meta name="description" content="RPCS3 is stable enough to boot into games and play many of them with ease. Stability is more of a per-game factor that may change with new builds as new features get implemented.">
 <meta name="keywords" content="rpcs3, playstation, playstation 3, ps3, emulator, debugger, windows, linux, macos, freebsd, open source, nekotekina, kd11, faq">
@@ -41,13 +41,13 @@
 		</div>
 		<div class='banner-con-title fade-up-onstart'>
 			<div class='banner-tx1-title fade-up-onstart pulsate'>
-				<h1>FAQs</h1>
+				<h1>Часто задаваемые вопросы</h1>
 			</div>
 			<div class='banner-con-divider'>
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Frequently asked questions
+					 Узнай о нас еще больше
 				</p>
 			</div>
 		</div>
@@ -59,11 +59,14 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>What is RPCS3 licensed under? </h2>
+						<h2>Какую проблему решает наш проект?  </h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 RPCS3 uses the GNU General Public License Version 2 (June 1991). According to the license, you are welcome to use RPCS3 and its source code for any purpose, but distributing RPCS3 requires that the source code be released and attribution given. For more details on how the GNU General Public License system works, please refer to <a href="https://www.gnu.org/">GNU.org</a>
+						Наше производство корма способствует снижению пищевых
+отходов и переработке просроченного хлеба, что позволяет
+снизить экологическую нагрузку на окружающую среду и
+внести вклад в устойчивое развитие нашего города
 						</p>
 					</div>
 				</div>
@@ -73,11 +76,11 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>How can I get started using RPCS3 on my PC?</h2>
+						<h2>Сколько бочек для хлеба установлена по городу?</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 Please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a> for detailed information on how to get started.
+							 Всего расположено более 27 бочек по всему городу
 						</p>
 					</div>
 				</div>
@@ -87,11 +90,11 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>How stable is RPCS3 in its current state?</h2>
+						<h2>Сколько стоит ваш корм?</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 RPCS3 is stable enough to boot into games and play many of them with ease. Stability is more of a per-game factor that may change with new builds as new features get implemented. As emulators progress in accuracy, there may be some regressions that occur and stability is typically one of them. Rest assured, the developers are always hard at work when it comes to keeping RPCS3 as stable as possible for now and into the future.
+							 Стоимость нашего корма варьируется в зависимости от обьема вашей покупки, но средняя цена составляет 33 сома за кг
 						</p>
 					</div>
 				</div>
@@ -101,16 +104,23 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>What input devices can I use with RPCS3?</h2>
+						<h2>Кому помогает проект?</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-							 We currently support keyboard / mouse inputs and native DualShock 3, DualShock 4 and DualSense controllers. We plan to add additional input methods in the future as we implement more meaningful features to the emulator.
+						Работники цеха
+перерабатывают хлеб в
+гранулированный корм и
+получают заработную плату.
+Фермеры, покупая наш
+гранулированный корм,
+экономят деньги и улучшают
+состояние своего скота.
 						</p>
 					</div>
 				</div>
 			</div>
-			<div class='container-con-block darkmode-block'>
+			<!-- <div class='container-con-block darkmode-block'>
 				<div class='container-con-wrapper'>
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
@@ -270,7 +280,7 @@
 						</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>
