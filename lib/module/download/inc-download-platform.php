@@ -6,10 +6,14 @@
 			<div class='downloadable-con-image' style="background: url(/img/antsCafeLogo.png) center left / 42px no-repeat">
 			</div>
 			<div class='downloadable-tx1-title darkmode-txt'>
-				<span>Windows</span>
+				<span>ANT'S</span>
 			</div>
 			<div class='downloadable-tx2-desc darkmode-txt'>
-				<span>Users can expect to run RPCS3 on a wide range of hardware setups on both laptops and desktops with support for Windows 10 and 11.</span>
+				<span>Время работы:
+					08:30 - 22:30
+					Без выходных
+					<br>бул. Эркиндик, д. 35
+				</span>
 			</div>
 
 
@@ -67,10 +71,12 @@
 			<div class='downloadable-con-image' style="background: url(/img/didarCafeLogo.png) center left / 42px no-repeat;">
 			</div>
 			<div class='downloadable-tx1-title darkmode-txt'>
-				<span>Linux</span>
+				<span>Дидар</span>
 			</div>
 			<div class='downloadable-tx2-desc darkmode-txt'>
-				<span>Users can expect to run RPCS3 at the best possible performance on a wide range of hardware setups with support for most common distros.</span>
+				<span>Ежедневно с 10:00 до 24:00
+					<br>Анарбека Бакаева, 42
+				</span>
 			</div>
 
 
