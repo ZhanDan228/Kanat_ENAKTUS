@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-<title>RPCS3 - Roadmap</title>
+<title>Частые вопросы</title>
 <meta charset="utf-8">
-<meta name="description" content="Our Roadmap is a non-exhaustive list of the current goals we aim to achieve through new developments and continuous integration, made possible with the support of our generous patrons.">
-<meta name="keywords" content="rpcs3, playstation, playstation 3, ps3, emulator, debugger, windows, linux, macos, freebsd, open source, nekotekina, kd11, roadmap">
+<meta name="description" content="RPCS3 is stable enough to boot into games and play many of them with ease. Stability is more of a per-game factor that may change with new builds as new features get implemented.">
+<meta name="keywords" content="rpcs3, playstation, playstation 3, ps3, emulator, debugger, windows, linux, macos, freebsd, open source, nekotekina, kd11, faq">
 <?php include 'lib/module/sys-meta.php';?>
-<meta property="og:title" content="RPCS3 - Roadmap" />
-<meta property="og:description" content="Our Roadmap is a non-exhaustive list of the current goals we aim to achieve through new developments and continuous integration, made possible with the support of our generous patrons." />
+<meta property="og:title" content="RPCS3 - FAQs" />
+<meta property="og:description" content="RPCS3 is stable enough to boot into games and play many of them with ease. Stability is more of a per-game factor that may change with new builds as new features get implemented." />
 <meta property="og:image" content="https://rpcs3.net/img/meta/mobile/1200.png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
@@ -16,32 +16,29 @@
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="RPCS3" />
 
-<meta name="twitter:title" content="RPCS3 - Roadmap">
-<meta name="twitter:description" content="Our Roadmap is a non-exhaustive list of the current goals we aim to achieve through new developments and continuous integration, made possible with the support of our generous patrons.">
+<meta name="twitter:title" content="RPCS3 - FAQs">
+<meta name="twitter:description" content="RPCS3 is stable enough to boot into games and play many of them with ease. Stability is more of a per-game factor that may change with new builds as new features get implemented.">
 <meta name="twitter:image" content="https://rpcs3.net/img/meta/mobile/1200.png">
 <meta name="twitter:site" content="@rpcs3">
 <meta name="twitter:creator" content="@rpcs3">
 <meta name="twitter:card" content="summary_large_image">
 <?php include 'lib/module/sys-css.php';?>
 <?php include 'lib/module/sys-js.php';?>
-<?php include 'lib/module/home/inc-home-player.php'?>
 </head>
 <body>
 <?php include 'lib/module/sys-php.php';?>
 <div class="page-con-content">
-	<div class="banner-con-container darkmode-header">
-		<div id="object-particles">
-		</div>
-		<div class="wavebar-con-container">
+	<div class="banner-con-container darkmode-header" style="background: url('/img/BreadForMainPageBack.jpg');">
+		<!-- <div id="object-particles">
+		</div> -->
+		<!-- <div class="wavebar-con-container">
 			<div class="wavebar-con-wrap">
 				<div class="wavebar-svg-object">
 				</div>
 				<div class="wavebar-svg-object">
 				</div>
 			</div>
-		</div>
-		<div class="banner-con-backdrop darkmode-header">
-		</div>
+		</div> -->
 		<div class='banner-con-title fade-up-onstart'>
 			<div class='banner-tx1-title fade-up-onstart pulsate'>
 				<h1>Новости</h1>
@@ -50,21 +47,240 @@
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					Работа над разделом "Новости" <span style="color:red">продолжается</span>...
+					 Работа над разделом продолжается...
 				</p>
 			</div>
 		</div>
 	</div>
 	<div class="page-con-container">
 		<div class="page-in-container">
-			<div class="markdown darkmode-block">
-				<?php
-				if (file_exists('cache/news_cached.php'))
-				{
-					include 'cache/news_cached.php';
-				}
-				?>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<!-- <h2>Какую проблему решает наш проект?  </h2> -->
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<!-- <p>
+						Наше производство корма способствует снижению пищевых
+отходов и переработке просроченного хлеба, что позволяет
+снизить экологическую нагрузку на окружающую среду и
+внести вклад в устойчивое развитие нашего города
+						</p> -->
+					</div>
+				</div>
 			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<!-- <h2>Сколько бочек для хлеба установлена по городу?</h2> -->
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<!-- <p>
+							 Всего расположено более 27 бочек по всему городу
+						</p> -->
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<!-- <h2>Сколько стоит ваш корм?</h2> -->
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<!-- <p>
+							 Стоимость нашего корма варьируется в зависимости от обьема вашей покупки, но средняя цена составляет 33 сома за кг
+						</p> -->
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<!-- <h2>Кому помогает проект?</h2> -->
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<!-- <p>
+						Работники цеха
+перерабатывают хлеб в
+гранулированный корм и
+получают заработную плату.
+Фермеры, покупая наш
+гранулированный корм,
+экономят деньги и улучшают
+состояние своего скота.
+						</p> -->
+					</div>
+				</div>
+			</div>
+			<!-- <div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>What PlayStation 3 peripherals can I use with RPCS3?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 We currently have support for the PlayStation Eye Camera, however PlayStation 3 Move controller support is still under development.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>Can I just insert a PlayStation 3 game disc and start playing games?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 In its current state, RPCS3 does not support reading game data directly from PlayStation 3 format discs. PlayStation 3 discs are formatted in a very special way that can only be read with an actual PlayStation 3 system, or a compatible Blu-ray drive from select manufacturers. For more information on what Blu-ray drives are capable of reading games, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>Where do I get PlayStation 3 games and software?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 Typically, you want to dump your own PlayStation 3 games and software from your own console. We believe that this is the most efficient and safest way to migrate your disc-based games and digital games from your console to your PC.
+						</p>
+						<br>
+						<p>
+							 You can also dump games using select compatible Blu-ray drives. Not every Blu-ray drive will recognize PlayStation 3 games due to how data is formatted on the disc. For more information on what Blu-ray drives are capable of reading games, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>How do I dump PlayStation 3 games and software?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 You will need two different tools for dumping PlayStation 3 game discs from a Blu-ray drive. For more information on how to get started dumping your own games, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>Can I play multiplayer games online with real consoles or other RPCS3 users?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 Online multiplayer is something we're thinking about and that already works on a very small amount of games with simple network code. We may not focus on it until RPCS3 is as stable and as accurate as possible. Playing games online with real PlayStation 3 systems will require the user to connect to a PlayStation Network server in many cases, thus requiring private PSN servers to be made first.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>Can I play local-multiplayer games with RPCS3?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 Local-multiplayer is completely supported. We support up to 7 concurrent controllers at any given time, just like original PlayStation 3 hardware on both Windows and Linux. The controllers can be assigned with a wide range of configurations. For example, one player can use a keyboard while another can use a compatible gamepad. To learn more about compatible gamepads, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>Can I import my save data from my real PlayStation 3?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 Yes, saves can be imported from a real PlayStation 3 system using the standard USB flash drive transfer method. Due to how the user account system works on a real PlayStation 3 system, in some cases, you may need to re-sign your save. For more information on how to manage your save data within RPCS3, please refer to the <a href="/breadAndFodder">Bread And Fodder Guide</a>.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>Why do you work on game X instead of game Y?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 We don't work on developing a game X or Y emulator, we work on developing a PlayStation 3 emulator.<br>
+							 Improvements to the emulator apply to all games that use the updated functionality, as our goal is to create the most accurate PlayStation 3 emulator possible and therefore we do <b>not</b> include game specific hacks.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>I'd like to create a patch, contribute, or possibly become a developer. Where do I start?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 That's awesome, contributions are welcome! Check the <a href="https://github.com/RPCS3/rpcs3/wiki/coding-style">Coding Style Guidelines</a>, and <a href="https://github.com/RPCS3/rpcs3/wiki/developer-information">Developer Information</a>. Find something you want to implement or improve (such as broken games, bugs, missing features, Roadmap goals, etc.), work on it, test your changes and send a Pull Request. If you have any questions, hit us up on our <a href="https://discord.me/RPCS3">Discord Server</a> in the #development channel.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>Where can I submit issues, feedback and comments that I want to report?</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							 Good, you can do it through the <a href="https://github.com/RPCS3/rpcs3/issues">GitHub Issue Tracker</a> (development-related issues) or the Forums (general questions, support and commercial/homebrew games discussion). Please be sure to follow these guidelines and the ones on the issue template before sending anything:
+						</p>
+						<br>
+						<p>
+							 • Check if your system matches all the system minimum requirements;
+						</p>
+						<p>
+							 • Check if the issue is meaningful for the team (e.g. The Last of Us doesn't work is obvious and therefore useless);
+						</p>
+						<p>
+							 • Search older issues/forum threads to see if your issue was already submitted;
+						</p>
+						<p>
+							 • While reporting issues, don't forget to include details about your system (OS, CPU, GPU, etc.), as well as the RPCS3.log file.
+						</p>
+						<p>
+							 • Use understandable English. It doesn't need to be perfect, but clear enough to understand your message;
+						</p>
+					</div>
+				</div>
+			</div> -->
 		</div>
 	</div>
 </div>
