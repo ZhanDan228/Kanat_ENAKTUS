@@ -113,7 +113,7 @@ if (@include_once("lib/compat/objects/Build.php"))
 			<div class="page-in-container">
 				<?php include 'lib/module/quickstart/inc-quickstart-dumping-devices.php';?>				
 			</div>
-		</div>
+		</div>	
 	</div>
 	<div class="page-con-content">
 		<div class="page-con-container">
