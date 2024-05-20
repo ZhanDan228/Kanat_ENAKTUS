@@ -12,8 +12,25 @@
 		<div class="footer-con-header">
 			<div class="footer-con-outer">
 				<div class="footer-con-inner">
-					<!-- <div class="footer-ico-logo darkmode-footer-logo">
-					</div> --> ЛОГО
+					<div class="footer-ico-logo123 darkmode-footer-logo">
+					</div> 
+					<style>
+
+.footer-ico-logo123 {
+	position:absolute;
+	top:-6px;
+	left:0;
+	width:140px;
+	height:160px;
+	background:url("/img/icons/mainLogoNew.png") center center/120px no-repeat
+}
+
+@media screen and (max-width:800px) {
+	.footer-ico-logo123 {
+		display:none
+	}
+}
+					</style>
 					<table class="footer-table-out">
 					<tr>
 						<td>
