@@ -23,7 +23,19 @@
 	</div>
 </div>
 <div class='device-con-container'>
-	<div class='device-con-outer-left'>
+
+<!-- -------------------------------------------- -->
+
+	<div class='textdevice-con-outer-left'>
+		<style>
+
+.textdevice-con-outer-left {
+	width:50%;
+	height:10%;
+	position:relative;
+	float:left;
+}
+			</style>
 		<div class='device-con-inner-a'>
 			<div class='performance-con-spec performance-ico-good'>
 				<div class='performance-ico-spec' style="background: url(/img/icons/buttons/good-h.png) center no-repeat; background-size:18px;">
@@ -33,10 +45,10 @@
 				<div class='device-con-graphic' style="background: url(/img/graphics/quickstart/ps3.png) center no-repeat; background-size:400px;">
 				</div>
 			</div>
-			<div class='device-tx1-title darkmode-txt' style="text-align: left !important;">
+			<!-- <div class='device-tx1-title darkmode-txt' style="text-align: left !important;">
 				<span>PlayStation 3 w/ CFW or HEN</span>
-			</div>
-			<div class='device-tx2-desc darkmode-txt'>
+			</div> -->
+			<!-- <div class='device-tx2-desc darkmode-txt'>
 				<span>
 				<p>
 					 PlayStation 3 games can be dumped using an original console running a file manager homebrew software such as ManagunZ, IRISMAN or MultiMAN via a custom or hybrid firmware but will require basic knowledge regarding the installation its use.<br>
@@ -44,7 +56,7 @@
 					 For more information on this topic, check our <a href='https://wiki.rpcs3.net/index.php?title=Help:Dumping_PlayStation_3_games#How_to_jailbreak_a_PS3_using_PS3HEN' target="_blank">Wiki</a> page.
 				</p>
 				</span>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<div class='device-con-outer-right'>

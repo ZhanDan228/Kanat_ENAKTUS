@@ -28,17 +28,17 @@
 <body>
 <?php include 'lib/module/sys-php.php';?>
 <div class="page-con-content">
-	<div class="banner-con-container darkmode-header">
-		<div id="object-particles">
-		</div>
-		<div class="wavebar-con-container">
+	<div class="banner-con-container darkmode-header" style="background: url('/img/BreadForMainPageBack.jpg');">
+		<!-- <div id="object-particles">
+		</div> -->
+		<!-- <div class="wavebar-con-container">
 			<div class="wavebar-con-wrap">
 				<div class="wavebar-svg-object">
 				</div>
 				<div class="wavebar-svg-object">
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<div class='banner-con-title fade-up-onstart'>
 			<div class='banner-tx1-title fade-up-onstart pulsate'>
 				<h1>Часто задаваемые вопросы</h1>
