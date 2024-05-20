@@ -12,59 +12,34 @@
 		<div class="footer-con-header">
 			<div class="footer-con-outer">
 				<div class="footer-con-inner">
-					<div class="footer-ico-logo darkmode-footer-logo">
-					</div>
+					<!-- <div class="footer-ico-logo darkmode-footer-logo">
+					</div> --> ЛОГО
 					<table class="footer-table-out">
 					<tr>
 						<td>
 							<div class="footer-table-in">
 								<div class="footer-con-bound">
 									<div class="footer-tx1-bound">
-										<span>Main</span>
+										<span>Основное</span>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="/blog">
-										<span>Blog</span>
+										<a href="/index">
+										<span>Главная</span>
 										</a>
 									</div>
 									<div class="footer-tx2-bound">
 										<a href="/about">
-										<span>About</span>
+										<span>О проекте</span>
 										</a>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="/compatibility">
-										<span>Compatibility</span>
+										<a href="/partnership">
+										<span>Сотрудничество</span>
 										</a>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="/parnership">
-										<span>Download</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="/breadAndFodder">
-										<span>Quickstart</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="/news">
-										<span>Roadmap</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="/branding">
-										<span>Branding</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="/disclaimer">
-										<span>Disclaimer</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="/alipay">
-										<span>Alipay</span>
+										<a href="/faq">
+										<span>Часто задаваемые вопросы</span>
 										</a>
 									</div>
 								</div>
@@ -74,40 +49,10 @@
 							<div class="footer-table-in">
 								<div class="footer-con-bound">
 									<div class="footer-tx1-bound">
-										<span>GitHub</span>
+										<span>Доп</span>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="https://github.com/RPCS3/rpcs3" target="_blank">
-										<span>Repository</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://github.com/RPCS3/rpcs3/pulls" target="_blank">
-										<span>Pull Requests</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://github.com/RPCS3/rpcs3/graphs/contributors" target="_blank">
-										<span>Contributors</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://github.com/RPCS3/rpcs3/commits/master" target="_blank">
-										<span>Commits</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://github.com/RPCS3/rpcs3/pulse" target="_blank">
-										<span>Insights</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://github.com/RPCS3/rpcs3/issues" target="_blank">
-										<span>Issues</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://github.com/RPCS3/rpcs3/wiki" target="_blank">
+										<a href="https://ru.wikipedia.org/wiki/Enactus" target="_blank">
 										<span>Wiki</span>
 										</a>
 									</div>
@@ -118,31 +63,16 @@
 							<div class="footer-table-in">
 								<div class="footer-con-bound">
 									<div class="footer-tx1-bound">
-										<span>Social</span>
+										<span>Соц сети</span>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="https://discord.me/RPCS3" target="_blank">
-										<span>Discord</span>
+										<a href="https://www.instagram.com/nan_uchun_gana/" target="_blank">
+										<span>Instagram</span>
 										</a>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="https://forums.rpcs3.net" target="_blank">
-										<span>Forum</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://www.youtube.com/c/RPCS3_emu/featured" target="_blank">
+										<a href="https://www.youtube.com/c/RPCS3_emu/videos" target="_blank">
 										<span>YouTube</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://www.reddit.com/r/rpcs3" target="_blank">
-										<span>Reddit</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://x.com/rpcs3" target="_blank">
-										<span>X</span>
 										</a>
 									</div>
 								</div>
@@ -152,21 +82,16 @@
 							<div class="footer-table-in">
 								<div class="footer-con-bound">
 									<div class="footer-tx1-bound">
-										<span>Repos</span>
+										<span>Репозиторий</span>
 									</div>
 									<div class="footer-tx2-bound">
 										<a href="https://github.com/RPCS3" target="_blank">
-										<span>RPCS3</span>
+										<span>Enactus</span>
 										</a>
 									</div>
 									<div class="footer-tx2-bound">
 										<a href="https://github.com/DAGINATSUKO/www-rpcs3" target="_blank">
 										<span>Website</span>
-										</a>
-									</div>
-									<div class="footer-tx2-bound">
-										<a href="https://github.com/AniLeo/rpcs3-compatibility" target="_blank">
-										<span>Compatibility</span>
 										</a>
 									</div>
 								</div>
@@ -187,19 +112,19 @@
 							<div class="footer-tx1-founder">
 								<a href="https://github.com/dhrpcs3" target="_blank">
 								<div class="footer-ico-container">
-									<div class="footer-ico-developer" style="background: rgb(255 255 255 / 10%) url('/img/icons/footer/dh.png') center center / cover no-repeat;">
+									<div class="footer-ico-developer" style="background: rgb(255 255 255 / 10%) url('/img/kanatTestFace.png') center center / cover no-repeat;">
 									</div>
 								</div>
 								</a>
 								<a href="https://github.com/erikpshat" target="_blank">
 								<div class="footer-ico-container">
-									<div class="footer-ico-developer" style="background: rgb(255 255 255 / 10%) url('/img/icons/footer/hykem.png') center center / cover no-repeat;">
+									<div class="footer-ico-developer" style="background: rgb(255 255 255 / 10%) url('/img/danielTestFace.jpeg') center center / cover no-repeat;">
 									</div>
 								</div>
 								</a>
 								<a href="/about">
 								<div class="footer-tx1-developer pulsate">
-									<span>Founded by DH and Hykem</span>
+									<span>Founded by Kanat and not Daniel</span>
 								</div>
 								</a>
 							</div>
@@ -208,25 +133,25 @@
 							<div class="footer-tx1-webmaster">
 								<a href="https://github.com/anileo" target="_blank">
 								<div class="footer-ico-container">
-									<div class="footer-ico-developer" style="background: url('/img/users/ani.png') center / cover no-repeat;">
+									<div class="footer-ico-developer" style="background: url('/img/kanatTestFace.png') center / cover no-repeat;">
 									</div>
 								</div>
 								</a>
 								<a href="https://github.com/herrhulahoop" target="_blank">
 								<div class="footer-ico-container">
-									<div class="footer-ico-developer" style="background: url('/img/users/herrhulahoop.png') center / cover no-repeat;">
+									<div class="footer-ico-developer" style="background: url('/img/kanatTestFace.png') center / cover no-repeat;">
 									</div>
 								</div>
 								</a>
 								<a href="https://github.com/daginatsuko" target="_blank">
 								<div class="footer-ico-container">
-									<div class="footer-ico-developer" style="background: url('/img/users/daginatsuko.png') center / cover no-repeat;">
+									<div class="footer-ico-developer" style="background: url('/img/danielTestFace.jpeg') center / cover no-repeat;">
 									</div>
 								</div>
 								</a>
 								<a href="https://daginatsuko.com" target="_blank">
 								<div class="footer-tx1-developer pulsate">
-									<span>Website by DAGINATSUKO © 2024</span>
+									<span>Website by KanDan © 2024</span>
 								</div>
 								</a>
 							</div>
