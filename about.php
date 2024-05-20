@@ -200,7 +200,11 @@
 					</div>
 				</div>
 			</div> -->
-			<div class='container-con-block darkmode-block'>
+
+<!-- -----------------------     Основатели      ---------------------------- -->
+
+
+			<!-- <div class='container-con-block darkmode-block'>
 				<div class='container-con-wrapper'>
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
@@ -213,14 +217,17 @@
 						</p>
 					</div>
 				</div>
-			</div>
-			<?php include 'lib/module/about/inc-about-founders.php';?>
+			</div> -->
+
+<!-- ------------------------------------------------------------------------------ -->
+
+			<!-- <?php include 'lib/module/about/inc-about-founders.php';?> -->
 			<div class='container-con-block darkmode-block'>
 				<div class='container-con-wrapper'>
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>Программисты</h2>
+						<h2>Участники</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
@@ -235,11 +242,11 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>Инвесторы</h2>
+						<h2>Поддержатели</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
-						Наши инвесторы - люди, которые поддержали наш проект финансово.
+						Люди, которые поддержали наш проект финансово.
 						</p>
 					</div>
 				</div>
