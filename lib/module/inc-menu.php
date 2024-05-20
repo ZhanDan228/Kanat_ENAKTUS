@@ -149,12 +149,12 @@
 			<div class="menu-btn-select">
 				<span>Сотрудничество</span>
 			</div>
-			</a>
+			<!-- </a>
 			<a href='/breadAndFodder'>
 			<div class="menu-btn-select">
 				<span>Хлеб и корм</span>
 			</div>
-			</a>
+			</a> -->
 			<a href='/news'>
 			<div class="menu-btn-select">
 				<span>Новости</span>
