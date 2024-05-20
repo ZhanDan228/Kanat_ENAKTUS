@@ -2,8 +2,8 @@
 	<div class="user-con-content darkmode-txt">
 		<div class="user-con-avatar">
 			<div class='user-img-avatar' style="background: url('/img/danielTestFace.jpeg') no-repeat center; background-size: cover;">
-				<div class="user-con-flag">
-					<div class='user-img-flag' style="background: url('/img/graphics/flags/european-union.png') no-repeat center; background-size: cover;">
+				<div class="">
+					<div class='' style="background: url('/img/graphics/flags/european-union.png') no-repeat center; background-size: cover;">
 					</div>
 				</div>
 			</div>
@@ -18,9 +18,9 @@
 		<div class="user-con-wrapper">
 			<div class='user-tx1-content darkmode-txt'>
 				<span class="user-tx2-member pulsate">
-				Dan_Zhan_Master </span>
+				Daniel </span>
 				<span class="user-con-role user-role-graphics">
-				Lead Graphics Developer </span>
+				Работал над сайтом </span>
 			</div>
 			<div class='user-con-divider role-graphics darkmode-divider'>
 			</div>
@@ -98,9 +98,9 @@
 </div>
 <div class="user-con-content darkmode-txt">
 	<div class="user-con-avatar">
-		<div class='user-img-avatar' style="background: url('/img/users/nekotekina.png') no-repeat center; background-size: cover;">
-			<div class="user-con-flag">
-				<div class='user-img-flag' style="background: url('/img/graphics/flags/russia.png') no-repeat center; background-size: cover;">
+		<div class='user-img-avatar' style="background: url('/img/kanatTestFace.png') no-repeat center; background-size: cover;">
+			<div class="">
+				<div class='' style="background: url('/img/graphics/flags/russia.png') no-repeat center; background-size: cover;">
 				</div>
 			</div>
 		</div>
@@ -110,23 +110,23 @@
 		<div class="user-con-role-gradient">
 		</div>
 	</div>
-	<div class="user-img-backdrop" style="background: url('/img/users/nekotekina.png') no-repeat center; background-size: cover;">
+	<div class="user-img-backdrop" style="background: url('/img/kanatTestFace.png') no-repeat center; background-size: cover;">
 	</div>
 	<div class="user-con-wrapper">
 		<div class='user-tx1-content darkmode-txt'>
 			<span class="user-tx2-member pulsate">
-			Nekotekina </span>
+		 Kanat </span>
 			<span class="user-con-role user-role-lead">
-			Lead Core Developer </span>
+			Работал над сайтом </span>
 		</div>
 		<div class='user-con-divider role-lead darkmode-divider'>
 		</div>
 		<div class='user-tx3-content darkmode-txt'>
 			<span>
-			Nekotekina joined RPCS3 in late 2013 as a contributor. He is currently the project lead and lead core developer. He is working full-time on RPCS3 thanks to the funding provided by our Patrons. Nekotekina is the single-most active developer. </span>
+			Канат, веб-разработчик из Бишкека, создал сайт для благотворительной организации. Его работа привлекла больше пожертвований и волонтеров, улучшая жизнь нуждающихся. </span>
 		</div>
 		<div class="user-con-subtitle">
-			<span class="user-tx1-subtitle ">Computer Specifications</span>
+			<span class="user-tx1-subtitle ">В чем немного разбирается:</span>
 		</div>
 		<div class="user-con-specsheet">
 			<div class="user-con-specbox">
@@ -141,37 +141,37 @@
 					<div class="specbox-ico-part" style="background: url('/img/icons/list/cpu-intel.png') no-repeat center;">
 					</div>
 					<div class="specbox-tx1-part darkmode-txt">
-						<span>Intel Core i9-10920X (3.9GHz)</span>
+						<span>Data analitica</span>
 					</div>
 				</div>
 				<div class="specbox-con-part darkmode-specbox">
 					<div class="specbox-ico-part" style="background: url('/img/icons/list/gpu-amd.png') no-repeat center;">
 					</div>
 					<div class="specbox-tx1-part darkmode-txt">
-						<span>Radeon RX 5500 XT</span>
+						<span>Machine learning</span>
 					</div>
 				</div>
-				<div class="specbox-con-part darkmode-specbox">
+				<!-- <div class="specbox-con-part darkmode-specbox">
 					<div class="specbox-ico-part" style="background: url('/img/icons/list/gpu-nvidia.png') no-repeat center;">
 					</div>
 					<div class="specbox-tx1-part darkmode-txt">
 						<span>NVIDIA GTX 1650</span>
 					</div>
-				</div>
-				<div class="specbox-con-part darkmode-specbox">
+				</div> -->
+				<!-- <div class="specbox-con-part darkmode-specbox">
 					<div class="specbox-ico-part" style="background: url('/img/icons/list/ram-generic.png') no-repeat center;">
 					</div>
 					<div class="specbox-tx1-part darkmode-txt">
 						<span>64GB DDR4 (3000MHz)</span>
 					</div>
-				</div>
-				<div class="specbox-con-part darkmode-specbox">
+				</div> -->
+				<!-- <div class="specbox-con-part darkmode-specbox">
 					<div class="specbox-ico-part" style="background: url('/img/icons/list/os-linux-ubuntu.png') no-repeat center;">
 					</div>
 					<div class="specbox-tx1-part darkmode-txt">
 						<span>Linux (Ubuntu)</span>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 		<div class="user-con-subtitle">
