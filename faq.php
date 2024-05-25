@@ -54,72 +54,104 @@
 	</div>
 	<div class="page-con-container">
 		<div class="page-in-container">
-			<div class='container-con-block darkmode-block'>
-				<div class='container-con-wrapper'>
-					<div class='container-tx1-block darkmode-txt'>
-						<div class='container-emp-block'>
-						</div>
-						<h2>Какую проблему решает наш проект?  </h2>
-					</div>
-					<div class='container-tx2-block darkmode-txt'>
-						<p>
-						Наше производство корма способствует снижению пищевых
-отходов и переработке просроченного хлеба, что позволяет
-снизить экологическую нагрузку на окружающую среду и
-внести вклад в устойчивое развитие нашего города
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class='container-con-block darkmode-block'>
-				<div class='container-con-wrapper'>
-					<div class='container-tx1-block darkmode-txt'>
-						<div class='container-emp-block'>
-						</div>
-						<h2>Сколько бочек для хлеба установлена по городу?</h2>
-					</div>
-					<div class='container-tx2-block darkmode-txt'>
-						<p>
-							 Всего расположено более 27 бочек по всему городу
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class='container-con-block darkmode-block'>
-				<div class='container-con-wrapper'>
-					<div class='container-tx1-block darkmode-txt'>
-						<div class='container-emp-block'>
-						</div>
-						<h2>Сколько стоит ваш корм?</h2>
-					</div>
-					<div class='container-tx2-block darkmode-txt'>
-						<p>
-							 Стоимость нашего корма варьируется в зависимости от обьема вашей покупки, но средняя цена составляет 33 сома за кг
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class='container-con-block darkmode-block'>
-				<div class='container-con-wrapper'>
-					<div class='container-tx1-block darkmode-txt'>
-						<div class='container-emp-block'>
-						</div>
-						<h2>Кому помогает проект?</h2>
-					</div>
-					<div class='container-tx2-block darkmode-txt'>
-						<p>
-						Работники цеха
-перерабатывают хлеб в
-гранулированный корм и
-получают заработную плату.
-Фермеры, покупая наш
-гранулированный корм,
-экономят деньги и улучшают
-состояние своего скота.
-						</p>
-					</div>
-				</div>
-			</div>
+		<div class='container-con-block darkmode-block'>
+    <div class='container-con-wrapper'>
+        <div class='container-tx1-block darkmode-txt'>
+            <div class='container-emp-block'></div>
+            <h2>Какова основная идея проекта переработки хлебных отходов в комбинированный корм?</h2>
+        </div>
+        <div class='container-tx2-block darkmode-txt'>
+            <p>Основная идея проекта заключается в использовании хлебных отходов для производства комбинированного корма для животных, что позволяет снизить объем отходов и создать дополнительный источник питания для животных.</p>
+        </div>
+    </div>
+</div>
+
+<div class='container-con-block darkmode-block'>
+    <div class='container-con-wrapper'>
+        <div class='container-tx1-block darkmode-txt'>
+            <div class='container-emp-block'></div>
+            <h2>Какие именно хлебные отходы будут использоваться в процессе?</h2>
+        </div>
+        <div class='container-tx2-block darkmode-txt'>
+            <p>В процессе будут использоваться различные виды хлебных отходов, такие как старый хлеб, хлебные крошки, остатки от выпечки и т. д.</p>
+        </div>
+    </div>
+</div>
+
+<div class='container-con-block darkmode-block'>
+    <div class='container-con-wrapper'>
+        <div class='container-tx1-block darkmode-txt'>
+            <div class='container-emp-block'></div>
+            <h2>Каковы преимущества использования комбинированного корма, произведенного из хлебных отходов?</h2>
+        </div>
+        <div class='container-tx2-block darkmode-txt'>
+            <p>Преимущества включают в себя уменьшение объема отходов, уменьшение затрат на производство корма, создание дополнительного источника питания для животных и улучшение экологической ситуации.</p>
+        </div>
+    </div>
+</div>
+
+<div class='container-con-block darkmode-block'>
+    <div class='container-con-wrapper'>
+        <div class='container-tx1-block darkmode-txt'>
+            <div class='container-emp-block'></div>
+            <h2>Безопасно ли употребление корма, изготовленного из хлебных отходов, для животных?</h2>
+        </div>
+        <div class='container-tx2-block darkmode-txt'>
+            <p>Да, корм, произведенный из хлебных отходов, безопасен для употребления животными, при условии соблюдения всех необходимых стандартов и правил производства.</p>
+        </div>
+    </div>
+</div>
+
+<div class='container-con-block darkmode-block'>
+    <div class='container-con-wrapper'>
+        <div class='container-tx1-block darkmode-txt'>
+            <div class='container-emp-block'></div>
+            <h2>Какая экологическая польза от использования хлебных отходов в корме?</h2>
+        </div>
+        <div class='container-tx2-block darkmode-txt'>
+            <p>Использование хлебных отходов в корме позволяет сократить количество отходов, идущих на свалку, что уменьшает негативное воздействие на окружающую среду.</p>
+        </div>
+    </div>
+</div>
+
+<div class='container-con-block darkmode-block'>
+    <div class='container-con-wrapper'>
+        <div class='container-tx1-block darkmode-txt'>
+            <div class='container-emp-block'></div>
+            <h2>Какова долговечность комбинированного корма на основе хлебных отходов?</h2>
+        </div>
+        <div class='container-tx2-block darkmode-txt'>
+            <p>Долговечность корма зависит от условий его хранения и состава, но обычно он может храниться в течение длительного времени при правильных условиях хранения.</p>
+        </div>
+    </div>
+</div>
+
+<div class='container-con-block darkmode-block'>
+    <div class='container-con-wrapper'>
+        <div class='container-tx1-block darkmode-txt'>
+            <div class='container-emp-block'></div>
+            <h2>Каковы условия хранения и срок годности комбинированного корма?</h2>
+        </div>
+        <div class='container-tx2-block darkmode-txt'>
+            <p>Корм следует хранить в сухом и прохладном месте, защищенном от солнечного света. Срок годности зависит от состава корма, но обычно составляет несколько месяцев до года.</p>
+        </div>
+    </div>
+</div>
+
+<div class='container-con-block darkmode-block'>
+    <div class='container-con-wrapper'>
+        <div class='container-tx1-block darkmode-txt'>
+            <div class='container-emp-block'></div>
+            <h2>Какие ресурсы или устройства могут потребоваться для внедрения данного проекта на местном уровне?</h2>
+        </div>
+        <div class='container-tx2-block darkmode-txt'>
+            <p>Для внедрения проекта могут потребоваться оборудование для переработки отходов, упаковочное оборудование, логистическая поддержка и ресурсы для продвижения продукции.</p>
+        </div>
+    </div>
+</div>
+
+
+
 			<!-- <div class='container-con-block darkmode-block'>
 				<div class='container-con-wrapper'>
 					<div class='container-tx1-block darkmode-txt'>
