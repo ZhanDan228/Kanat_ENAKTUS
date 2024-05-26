@@ -8,13 +8,19 @@
 				</div>
 			</div>
 		</div>
-		<div class="user-con-backdrop">
+
+<!-- ------------------  background image and year -------------------------- -->
+
+		<!-- <div class="user-con-backdrop">
 			<span class="user-tx1-backdrop " style="color: #b9b9b9">2016</span>
 			<div class="user-con-role-gradient">
 			</div>
 		</div>
 		<div class="user-img-backdrop" style="background: url('/img/users/kd11.png') no-repeat center; background-size: cover;">
-		</div>
+		</div> -->
+
+<!-- ---------------------------------------------------------------- -->
+
 		<div class="user-con-wrapper">
 			<div class='user-tx1-content darkmode-txt'>
 				<span class="user-tx2-member pulsate">
@@ -77,7 +83,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="user-con-subtitle">
+
+<!-- Soc media where u can find him -->
+
+			<!-- <div class="user-con-subtitle">
 				<span class="user-tx1-subtitle ">Вы можете найти его в...</span>
 			</div>
 			<div class="user-con-socialsheet">
@@ -92,7 +101,10 @@
 					</div>
 					</a>
 				</div>
-			</div>
+			</div> -->
+
+<!-- ----------------------------------------- -->
+
 		</div>
 	</div>
 </div>
@@ -105,13 +117,13 @@
 			</div>
 		</div>
 	</div>
-	<div class="user-con-backdrop">
+	<!-- <div class="user-con-backdrop">
 		<span class="user-tx1-backdrop " style="color: #f9cf82">2013</span>
 		<div class="user-con-role-gradient">
 		</div>
-	</div>
-	<div class="user-img-backdrop" style="background: url('/img/kanatTestFace.png') no-repeat center; background-size: cover;">
-	</div>
+	</div> -->
+	<!-- <div class="user-img-backdrop" style="background: url('/img/kanatTestFace.png') no-repeat center; background-size: cover;">
+	</div> -->
 	<div class="user-con-wrapper">
 		<div class='user-tx1-content darkmode-txt'>
 			<span class="user-tx2-member pulsate">
@@ -174,10 +186,13 @@
 				</div> -->
 			</div>
 		</div>
-		<div class="user-con-subtitle">
+
+<!-- ------------           Соц медиа где можно найти учатсника               --------------- -->
+
+		<!-- <div class="user-con-subtitle">
 			<span class="user-tx1-subtitle ">You can also find them on...</span>
-		</div>
-		<div class="user-con-socialsheet">
+		</div> -->
+		<!-- <div class="user-con-socialsheet">
 			<div class="user-con-socialbox">
 				<a href="https://github.com/nekotekina" target="_blank">
 				<div class="socialbox-con-button">
@@ -189,6 +204,9 @@
 				</div>
 				</a>
 			</div>
-		</div>
+		</div> -->
+<!-- 
+---------------------------- -->
+
 	</div>
 </div>

@@ -8,13 +8,13 @@
 				</div>
 			</div>
 		</div>
-		<div class="user-con-backdrop">
+		<!-- <div class="user-con-backdrop">
 			<span class="user-tx1-backdrop " style="color: #b1b1b1">2013</span>
 			<div class="user-con-role-gradient">
 			</div>
 		</div>
 		<div class="user-img-backdrop" style="background: url('/img/firstBeneficiar.png') no-repeat center; background-size: cover;">
-		</div>
+		</div> -->
 		<div class="user-con-wrapper">
 			<div class='user-tx1-content darkmode-txt'>
 				<span class="user-tx2-member pulsate">
@@ -28,24 +28,27 @@
 			</div>
 			<div class='user-tx3-content darkmode-txt'>
 				<span>
-				Алтынбек из Бишкека, женат, отец четверых детей, с доходом 13 000 сом. Наш проект помогает ему улучшить экономическое положение и обеспечить семью.<a href="https://github.com/AlexAltea?tab=repositories" target="_blank">emulation-related</a> projects. </span>
+				Алтынбек из Бишкека, женат, отец четверых детей, с доходом 13 000 сом. Наш проект помогает ему улучшить экономическое положение и обеспечить семью. </span>
 			</div>
 
 			<div class="user-con-subtitle">
-				<span class="user-tx1-subtitle ">Вы можете найти его...</span>
+				<span class="user-tx1-subtitle ">Вы можете найти его в...</span>
 			</div>
 			<div class="user-con-socialsheet">
 				<div class="user-con-socialbox">
-					<a href="https://github.com/alexaltea" target="_blank">
+					<a href="" target="_blank">
 					<div class="socialbox-con-button">
-						<div class="socialbox-ico-platform" style="background: url('/img/icons/social/github.png') no-repeat center;">
+						<div class="socialbox-ico-platform" style="background: url('/img/instminilogo2.png') no-repeat center;">
 						</div>
 						<div class="socialbox-tx1-platform darkmode-txt">
-							<span>GitHub</span>
+							<span>Instgram</span>
 						</div>
 					</div>
 					</a>
-					<a href="https://x.com/alexaltea" target="_blank">
+
+<!-- ------------------       Also soc media       ----------------------------- -->
+
+					<!-- <a href="https://x.com/alexaltea" target="_blank">
 					<div class="socialbox-con-button">
 						<div class="socialbox-ico-platform" style="background: url('/img/icons/social/x.png') no-repeat center;">
 						</div>
@@ -53,7 +56,10 @@
 							<span>X, formerly Twitter</span>
 						</div>
 					</div>
-					</a>
+					</a> -->
+
+					<!-- -------------------------------------------------------------------- -->
+
 				</div>
 			</div>
 		</div>
@@ -70,13 +76,13 @@
 				</div>
 			</div>
 		</div>
-		<div class="user-con-backdrop">
+		<!-- <div class="user-con-backdrop">
 			<span class="user-tx1-backdrop " style="color: #d1beb8">2014</span>
 			<div class="user-con-role-gradient">
 			</div>
 		</div>
 		<div class="user-img-backdrop" style="background: url('/img/users/tambry.png') no-repeat center; background-size: cover;">
-		</div>
+		</div> -->
 		<div class="user-con-wrapper">
 			<div class='user-tx1-content darkmode-txt'>
 				<span class="user-tx2-member pulsate">
@@ -96,16 +102,16 @@
 				Умар, 53 года, из Бишкека, женат, отец троих детей, с доходом 11 000 сомов. Наш проект помогает улучшить его финансовое положение и благосостояние семьи. <!-- <a href='https://github.com/RPCS3/rpcs3' target="_blank">contributions</a> --></span>
 			</div>
 			<div class="user-con-subtitle">
-				<span class="user-tx1-subtitle ">Вы можете найти его...</span>
+				<span class="user-tx1-subtitle ">Вы можете найти его в...</span>
 			</div>
 			<div class="user-con-socialsheet">
 				<div class="user-con-socialbox">
-					<a href="https://github.com/tambry" target="_blank">
+				<a href="" target="_blank">
 					<div class="socialbox-con-button">
-						<div class="socialbox-ico-platform" style="background: url('/img/icons/social/github.png') no-repeat center;">
+						<div class="socialbox-ico-platform" style="background: url('/img/instminilogo2.png') no-repeat center;">
 						</div>
 						<div class="socialbox-tx1-platform darkmode-txt">
-							<span>GitHub</span>
+							<span>Instgram</span>
 						</div>
 					</div>
 					</a>
