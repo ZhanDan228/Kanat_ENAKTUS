@@ -139,21 +139,21 @@
 									</div>
 								</div>
 								</a>
-								<a href="/about">
+								<a href="/about#participants">
 								<div class="footer-tx1-developer pulsate">
-									<span>Founded by Kanat and not Daniel</span>
+									<span>Founded by "these people"</span>
 								</div>
 								</a>
 							</div>
 						</div>
 						<div class="footer-con-side">
 							<div class="footer-tx1-webmaster">
-								<a href="https://github.com/anileo" target="_blank">
+								<!-- <a href="https://github.com/anileo" target="_blank">
 								<div class="footer-ico-container">
 									<div class="footer-ico-developer" style="background: url('/img/kanatTestFace.png') center / cover no-repeat;">
 									</div>
 								</div>
-								</a>
+								</a> -->
 								<a href="https://github.com/herrhulahoop" target="_blank">
 								<div class="footer-ico-container">
 									<div class="footer-ico-developer" style="background: url('/img/kanatTestFace.png') center / cover no-repeat;">
@@ -166,11 +166,11 @@
 									</div>
 								</div>
 								</a>
-								<a href="https://daginatsuko.com" target="_blank">
+								<a href="/about#participants">
 								<div class="footer-tx1-developer pulsate">
-									<span>Website by KanDan © 2024</span>
+									<span style="color:white">Website by Kanat and Daniel © 2024</span>
 								</div>
-								</a>
+</a>
 							</div>
 						</div>
 					</div>

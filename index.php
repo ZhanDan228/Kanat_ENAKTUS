@@ -26,7 +26,9 @@
 <?php include 'lib/module/sys-js.php';?>
 <script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6161192934701994" crossorigin="anonymous"></script>
+
 </head>
+на какой строке кода определен логотип на вкладке в браузере
 <body>
 
 <?php include 'lib/module/sys-php.php';?>
@@ -78,6 +80,7 @@
 <!-- -------------------------------------------------------  About button  -->
 
 							<div class='landing-btn-container'>
+								<a href="/about">
 								<div class="build-btn-button">
 									<div class="build-ico-button">
 										<!-- Отвечает за каринку внутри кнопки -->
@@ -88,13 +91,14 @@
 											<img alt="FreeBSD" src="img/icons/list/os-bsd.png" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
 										</div> -->
 									</div>
-									<a href='/about'>
+									
 									<div class="build-tx1-button">
 										<span style="margin-left: 15%">Подробнее</span>
 										<!-- <span class="build-tx2-label">64-bit</span> -->
 									</div>
-									</a>
+									
 								</div>
+								</a>
 							</div>
 
  <!-- ----------------------------------------------------------------------- -->
@@ -170,23 +174,260 @@
 				.discord-center-logo {
 					position:absolute;
 					top:auto;
-					bottom:-28%;
+					bottom:-20%;
 					width:100%;
 					left: -25%
 				}
-
+				@media (max-width:1108px){
+					.discord-center-logo{
+					margin-bottom:5%;
+				}
+				}
+				@media (max-width:995px){
+					.discord-center-logo{
+					margin-bottom:10%;
+				}
+				}
+				@media (max-width:939px){
+					.discord-center-logo{
+					margin-bottom:15%;
+				}
+				}
+				@media (max-width:845px){
+					.discord-center-logo{
+					margin-bottom:25%;
+				}
+				}
+				@media (max-width:775px){
+					.discord-center-logo{
+					margin-bottom:70%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:762px){
+					.discord-center-logo{
+						margin-bottom:72%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:714px){
+					.discord-center-logo{
+						margin-bottom:79%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:683px){
+					.discord-center-logo{
+						margin-bottom:80%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:670px){
+					.discord-center-logo{
+						margin-bottom:84%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:646px){
+					.discord-center-logo{
+						margin-bottom:87%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:718px){
+					.discord-center-logo{
+						margin-bottom:78%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:620px){
+					.discord-center-logo{
+						margin-bottom:89%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
 				@media (max-width:430px){
-					.adaptiveInstaLogo{
+					.discord-center-logo{
 					margin-bottom:145%;
+					width: 60%;
 				}
 				}
 				@media (max-width:390px){
-					.adaptiveInstaLogo{
+					.discord-center-logo{
 					margin-bottom:165%;
+					width: 60%;
 				}
 				}
 				
-
+				@media (max-width:690px){
+					.discord-center-logo{
+						margin-bottom:80%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:670px){
+					.discord-center-logo{
+						margin-bottom:84%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:646px){
+					.discord-center-logo{
+						margin-bottom:87%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:620px){
+					.discord-center-logo{
+						margin-bottom:90%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:602px){
+					.discord-center-logo{
+						margin-bottom:94%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:575px){
+					.discord-center-logo{
+						margin-bottom:100%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:560px){
+					.discord-center-logo{
+						margin-bottom:105%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:525px){
+					.discord-center-logo{
+						margin-bottom:110%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:500px){
+					.discord-center-logo{
+						margin-bottom:115%;
+					margin-left:10%;
+					width: 60%;
+				}
+				}
+				@media (max-width:490px){
+					.discord-center-logo{
+						margin-bottom:120%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:481px){
+					.discord-center-logo{
+						margin-bottom:120%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:466px){
+					.discord-center-logo{
+						margin-bottom:135%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:445px){
+					.discord-center-logo{
+						margin-bottom:140%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:420px){
+					.discord-center-logo{
+						margin-bottom:145%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:405px){
+					.discord-center-logo{
+						margin-bottom:155%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:395px){
+					.discord-center-logo{
+						margin-bottom:155%;
+					margin-left:10%;
+					width: 85%;
+				}
+				}
+				@media (max-width:375px){
+					.discord-center-logo{
+						margin-bottom:175%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:355px){
+					.discord-center-logo{
+						margin-bottom:185%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:335px){
+					.discord-center-logo{
+						margin-bottom:195%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:320px){
+					.discord-center-logo{
+						margin-bottom:205%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:305px){
+					.discord-center-logo{
+						margin-bottom:220%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:290px){
+					.discord-center-logo{
+						margin-bottom:230%;
+					margin-left:10%;
+					width: 75%;
+				}
+				}
+				@media (max-width:280px){
+					.discord-center-logo{
+						margin-bottom:240%;
+					margin-left:10%;
+					width: 85%;
+				}
+				}
 			</style>
 		</div>
 		<div class="content-con-outside">

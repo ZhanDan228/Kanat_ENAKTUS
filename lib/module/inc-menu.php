@@ -1,7 +1,7 @@
 <div class='menu-con-release'>
 	<span>Website Release Preview</span>
 </div>
-<div class='mini-menu-con-dimmer'>
+<!-- <div class='mini-menu-con-dimmer'>
 	<div class='mini-menu-con-container'>
 		<div class='mini-menu-ico-logo'>
 		</div>
@@ -21,7 +21,7 @@
 			<h2>I Understand</h2>
 		</div>
 	</div>
-</div>
+</div> -->
 <div class='menu-con-message fade-out-onload'>
 	<div class='menu-tx1-message toggle-message fade-out-onload'>
 		<span>We are currently experiencing a higher server volume than usual. We sincerely apologize for any inconveniences.</span>
@@ -49,65 +49,47 @@
 <div class="theme-btn-close toggle-theme">
 </div>
 <div class="settings-menu-con-outer settings-submenu">
-	<div class="settings-menu-con-wrapper toggle-darkmode settings-menu-upper">
-		<div class="settings-menu-ico-darkmode">
+
+<!-- ------------------------------------------------------- -->
+
+	<div class="settings-menu-con-wrapper  settings-menu-upper">
+		<div class="settings-menu-ico-darkmode123">
 		</div>
 		<div class="settings-menu-btn-button btn-darkmode">
 			<span>Dark Theme - On/Off</span>
 		</div>
 	</div>
-	<div class="settings-menu-con-divider">
-	</div>
-	<div class="settings-menu-con-wrapper toggle-transparency">
-		<div class="settings-menu-ico-transparency">
-		</div>
-		<div class="settings-menu-btn-button btn-transparency">
-			<span>Transparency - On</span>
-		</div>
-	</div>
-	<div class="settings-menu-con-divider">
-	</div>
-	<div class="settings-menu-con-wrapper toggle-particles">
-		<div class="settings-menu-ico-particles">
-		</div>
-		<div class="settings-menu-btn-button btn-particles">
-			<span>Particles - On</span>
-		</div>
-	</div>
-	<div class="settings-menu-con-divider">
-	</div>
-	<div class="settings-menu-con-wrapper toggle-pulsate">
-		<div class="settings-menu-ico-pulsate">
-		</div>
-		<div class="settings-menu-btn-button btn-pulsate">
-			<span>Pulsate - On</span>
-		</div>
-	</div>
-	<div class="settings-menu-con-divider">
-	</div>
-	<div class="settings-menu-con-wrapper toggle-waves">
-		<div class="settings-menu-ico-waves">
-		</div>
-		<div class="settings-menu-btn-button btn-waves">
-			<span>Waves - On</span>
-		</div>
-	</div>
-	<div class="settings-menu-con-divider">
-	</div>
-	<div class="settings-menu-con-wrapper toggle-theme settings-menu-lower" style="border-top: solid 1px rgba(0,0,0,.02);">
-		<div class="settings-menu-ico-theme">
-		</div>
-		<div class="settings-menu-btn-button btn-theme">
-			<span>Change Theme</span>
-		</div>
-	</div>
+
+<style>
+	.settings-menu-ico-darkmode123 {
+	display:inline-block;
+	float:left;
+	width:42px;
+	height:42px;
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+	border-radius:12px;
+	border:solid 1px rgb(255 255 255/10%);
+	background:rgb(255 255 255/10%) url("/img/icons/submenu/darkmode-h.png") center center/24px no-repeat;
+	box-shadow:rgb(0 0 0/30%) 0 10px 32px 0
+}
+	</style>
+
+<!-- ------------------------------------------------------------------- -->
+
+
+
+
+
+
 </div>
 <div class="menu-btn-backtotop">
 </div>
 <div class='menu-con-container'>
 	<div class="menu-con-backdrop darkmode-menu">
 	</div>
-	<div class="menu-btn-settings toggle-settings">
+	<div class="menu-btn-settings12345 toggle-darkmode">
 		<div class='menu-btn-tx1-settings-tooltip pulsate'>
 
 	</div>
@@ -227,13 +209,7 @@
 					<span>Сотрудничество</span>
 				</div>
 				</a>
-				<a href="/breadAndFodder">
-				<div class='mobile-menu-btn-icon'>
-				</div>
-				<div class='mobile-menu-btn-select'>
-					<span>Хлеб и корм</span>
-				</div>
-				</a>
+
 				<a href="/news">
 				<div class='mobile-menu-btn-icon'>
 				</div>
@@ -300,6 +276,32 @@
 				</a>
 				<div class='mobile-menu-btn-spacer'>
 				</div>
+				<style>
+.menu-btn-settings12345 {
+	position:absolute;
+	z-index:9998;
+	top:0;
+	right:0;
+	width:70px;
+	height:100%;
+	cursor:pointer;
+	border-bottom:2px solid transparent;
+	background:url("/img/icons/submenu/darkmode-h.png") center center/28px no-repeat;
+	animation-name:fadeIn;
+	animation-duration:.5s;
+	animation-iteration-count:1;
+	transition:all .1s ease-in-out 0s
+}
+.menu-btn-settings12345:hover {
+	width:70px;
+	border-bottom:2px solid #fff
+}
+@media screen and (max-width:800px) {
+		.menu-btn-settings {
+		display:none
+	}
+}
+					</style>
 			</div>
 		</div>
 	</div>

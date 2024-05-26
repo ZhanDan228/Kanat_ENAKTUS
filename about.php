@@ -227,7 +227,7 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>Участники</h2>
+						<h2 id='participants'>Участники</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
@@ -242,7 +242,7 @@
 					<div class='container-tx1-block darkmode-txt'>
 						<div class='container-emp-block'>
 						</div>
-						<h2>Поддержатели</h2>
+						<h2>Инвесторы и бенефициары</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
