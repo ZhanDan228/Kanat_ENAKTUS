@@ -330,6 +330,15 @@
 						</div>
 					</div>
 					<div class="patreon-con-mantra">
+						<style>
+							.patreon-img-backdrop {
+								background:url("/img/graphics/landing/bg-patreon.png") center bottom/cover repeat;
+								width:100%;
+								height:100%;
+								position:absolute;
+								opacity:.1
+							}
+						</style>
 						<div class="patreon-wrp-mantra scale-content-txt-1 ">
 							<div class="patreon-tx1-mantra">
 								<h2>We're on Patreon.</h2>
