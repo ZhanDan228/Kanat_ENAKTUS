@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>Ecolibris</title>
+<title>NanUchunGana</title>
+<link rel="shortcut icon" href="img\meta\favicon/mainlogosite.png" />
 <meta charset="utf-8">
 <meta name="description" content="RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD. The purpose of this project is to accurately emulate the PlayStation 3 in its entirety with the power of reverse engineering and community collaboration.">
 <meta name="keywords" content="rpcs3, playstation, playstation 3, ps3, emulator, debugger, windows, linux, macos, freebsd, open source, nekotekina, kd11, home">
@@ -500,6 +501,20 @@
 		<div class="github-img-overlay">
 		</div>
 		<div class="content-con-outside">
+			<style>
+				.github-img-logo {
+					height:100%;
+					width:100%;
+					background:url("/img/graphics/landing/whatsappphoto.png") center center/contain no-repeat
+				}
+				.github-img-backdrop {
+					background:url("/img/graphics/landing/backgroundwhats.avif") center center/cover repeat;
+					width:100%;
+					height:100%;
+					position:absolute;
+					opacity:.1
+				}
+			</style>
 			<div class="content-con-inside">
 				<div class="github-con-container">
 					<div class="github-con-logo">
@@ -509,31 +524,45 @@
 					<div class="github-con-mantra">
 						<div class="github-wrp-mantra scale-content-txt-1 ">
 							<div class="github-tx1-mantra">
-								<h2>Contributing Code.</h2>
-								<div class="landing-con-divider" style="background: #9647c7">
+								<style>
+									.github-tx1-mantra {
+									font-family:Roboto-Bold;
+									font-size:45px;
+									line-height:64px;
+									height:auto;
+									padding-left:100px;
+									color:#25D366;
+									margin-bottom:20px
+								}
+								</style>
+								<h2>Связаться с нами</h2>
+								<div class="landing-con-divider" style="background: #25D366">
 								</div>
 							</div>
 							<div class="github-tx2-mantra darkmode-txt">
 								<p>
 
-								Мы в Ecolibris занимаемся утилизацией пищевых отходов, превращая их в корм для животных.
-
-Почему присоединиться к нам?
-
-Инновации: Работаем с передовыми технологиями.
-Экологичность: Создаем устойчивую модель потребления.
-Команда: Профессиональная и мотивированная.
-
-Если вы разделяете наши ценности и хотите внести свой вклад в устойчивое будущее, присоединяйтесь к нам!
+								Ищете надежного партнера для ваших проектов? NanUchunGana предлагает инновационные решения, индивидуальный подход и высокое качество услуг.
 
 								</p>
 							</div>
 							<a href="https://github.com/rpcs3" target="_blank">
 							<div class="github-btn-button">
+								<style>
+									.github-btn-button:hover .github-ico-button {
+									background:url("/img/icons/buttons/whatsapp button.png") center center/24px no-repeat
+								}
+								.github-ico-button {
+									background:url("/img/icons/buttons/whatsapp_button.png") center center/24px no-repeat;
+									height:46px;
+									width:46px;
+									float:left
+								}
+								</style>
 								<div class="github-ico-button">
 								</div>
 								<div class="github-tx1-button">
-									<span>Join the project</span>
+									<span>Связаться</span>
 								</div>
 							</div>
 							</a>
@@ -571,15 +600,24 @@
 						</div>
 					</div>
 					<div class="patreon-con-mantra">
+						<style>
+							.patreon-img-backdrop {
+								background:url("") center bottom/cover repeat;
+								width:100%;
+								height:100%;
+								position:absolute;
+								opacity:.1
+							}
+						</style>
 						<div class="patreon-wrp-mantra scale-content-txt-1 ">
 							<div class="patreon-tx1-mantra">
-								<h2>We're on Patreon.</h2>
+								<h2>Поддержка проекта</h2>
 								<div class="landing-con-divider" style="background: #ff424d">
 								</div>
 							</div>
 							<div class="patreon-tx2-mantra darkmode-txt">
 								<p>
-									 Our developers are pushing the very boundaries of PlayStation 3 emulation. Our rapid progression would not be possible without our contributors and Patrons. Our patrons not only keep us motivated, but keep our lead developers working on the project full time.
+								Хотите помочь нам развиваться и создавать еще больше инновационных решений? Присоединяйтесь к нашим патронам на Patreon и получите эксклюзивный доступ к нашим проектам и обновлениям.
 								</p>
 							</div>
 							<a href="https://www.patreon.com/Nekotekina" target="_blank">
@@ -587,7 +625,7 @@
 								<div class="patreon-ico-button">
 								</div>
 								<div class="patreon-tx1-button">
-									<span>Become a Patron</span>
+									<span>Поддержать</span>
 								</div>
 							</div>
 							</a>
